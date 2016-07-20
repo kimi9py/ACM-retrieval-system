@@ -1,0 +1,8 @@
+使用说明：
+1、GradDesign_v2为数据获取及分析代码，需要在linux操作系统下搭建Hadoop分布式集群，并在Hadoop平台上运行。
+
+2、CreatDB为数据库导入程序，需要将导入数据文件夹下的所有内容放在D盘中。
+
+3、MyWeb是是网站设计程序，在本地运行则将其导入Myeclipse的workspace目录中。若要进行发布，则将MyWeb下的WebRoot文件夹复制到Tomcat目录下的webapps目录中。
+
+4、search3.sql是数据库文件，将其导入本地MySQL数据库即可。

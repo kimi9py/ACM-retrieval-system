@@ -1,0 +1,3004 @@
+1	1000	A+B Problem	176584	319719
+2	1001	Exponentiation	31806	130394
+3	1002	487-3279	40726	233631
+4	1003	Hangover	47610	98223
+5	1004	Financial Management	55197	122811
+6	1005	I Think I Need a Houseboat	36403	84103
+7	1006	Biorhythms	34111	109754
+8	1007	DNA Sorting	32106	79858
+9	1008	Maya Calendar	19671	63782
+10	1009	Edge Detection	3882	17022
+11	1010	STAMPS	4349	15480
+12	1011	Sticks	26779	116479
+13	1012	Joseph	17649	46887
+14	1013	Counterfeit Dollar	12253	38364
+15	1014	Dividing	14593	56921
+16	1015	Jury Compromise	6314	24265
+17	1016	Numbers That Count	6128	18416
+18	1017	Packets	14081	41934
+19	1018	Communication System	7916	22260
+20	1019	Number Sequence	9456	33130
+21	1020	Anniversary Cake	4911	15135
+22	1021	2D-Nim	1352	2990
+23	1022	Packing Unit 4D Cubes	579	1831
+24	1023	The Fun Number System	3223	9597
+25	1024	Tester Program	783	2205
+26	1025	Department	404	1720
+27	1026	Cipher	5043	18907
+28	1027	The Same Game	1739	4683
+29	1028	Web Navigation	12653	28297
+30	1029	False coin	4594	16451
+31	1030	Rating	365	1606
+32	1031	Fence	1072	3194
+33	1032	Parliament	6995	16573
+34	1033	Defragment	1232	3503
+35	1034	The dog task	1068	2625
+36	1035	Spell checker	6649	18117
+37	1036	Gangsters	3009	10778
+38	1037	A decorative fence	2326	6385
+39	1038	Bugs Integrated, Inc.	3365	8778
+40	1039	Pipe	2660	8806
+41	1040	Transportation	1551	3836
+42	1041	John's trip	2207	6629
+43	1042	Gone Fishing	8337	27952
+44	1043	What's In A Name?	854	2368
+45	1044	Date bugs	804	2783
+46	1045	Bode Plot	7899	12371
+47	1046	Color Me Less	14442	29811
+48	1047	Round and Round We Go	5468	11755
+49	1048	Follow My Logic	551	1908
+50	1049	Microprocessor Simulation	893	3052
+51	1050	To the Max	20691	39171
+52	1051	P,MTHBGWB	4149	7210
+53	1052	Plato's Blocks	288	723
+54	1053	Set Me	1340	2909
+55	1054	The Troublesome Frog	2983	9969
+56	1055	BULK MAILING	258	891
+57	1056	IMMEDIATE DECODABILITY	5073	10754
+58	1057	FILE MAPPING	918	1844
+59	1058	The Gourmet Club	435	1453
+60	1059	Chutes and Ladders	795	9931
+61	1060	Modular multiplication of polynomials	1802	3944
+62	1061	青蛙的约会	15284	86897
+63	1062	昂贵的聘礼	9949	34790
+64	1063	Flip and Shift	3179	6808
+65	1064	Cable master	4471	20858
+66	1065	Wooden Sticks	7305	17494
+67	1066	Treasure Hunt	2178	5287
+68	1067	取石子游戏	11018	33136
+69	1068	Parencodings	11399	18911
+70	1069	The Bermuda Triangle	558	1176
+71	1070	Deformed Wheel	129	602
+72	1071	Illusive Chase	472	1050
+73	1072	Puzzle Out	302	1090
+74	1073	The Willy Memorial Program	176	567
+75	1074	Parallel Expectations	256	755
+76	1075	University Entrance Examination	168	552
+77	1076	Bowl	194	874
+78	1077	Eight	10270	23271
+79	1078	Gizilch	523	1345
+80	1079	Ratio	1435	3884
+81	1080	Human Gene Functions	9179	16546
+82	1081	You Who?	235	669
+83	1082	Calendar Game	2214	4700
+84	1083	Moving Tables	8289	24951
+85	1084	Square Destroyer	1318	3128
+86	1085	Triangle War	1048	2660
+87	1086	Unscrambling Images	285	700
+88	1087	A Plug for UNIX	4430	13284
+89	1088	滑雪	26826	72673
+90	1089	Intervals	2904	7296
+91	1090	Chain	1042	3148
+92	1091	跳蚤	2351	8052
+93	1092	Farmland	474	1223
+94	1093	Formatting Text	464	1992
+95	1094	Sorting It All Out	9044	26103
+96	1095	Trees Made to Order	3805	6595
+97	1096	Space Station Shielding	500	1401
+98	1097	Roads Scholar	307	822
+99	1098	Robots	170	519
+100	1099	Square Ice	1447	3687101	1100	Dreisam Equations	403	1990
+102	1101	The Game	2676	8780
+103	1102	LC-Display	5955	14887
+104	1103	Maze	460	1153
+105	1104	Robbery	346	887
+106	1105	S-Trees	732	1363
+107	1106	Transmitters	2334	4394
+108	1107	W's Cipher	2533	5042
+109	1108	Split Windows	126	227
+110	1109	Index Generation	86	224
+111	1110	Double Vision	194	361
+112	1111	Image Perimeters	4475	7531
+113	1112	Team Them Up!	1672	6254
+114	1113	Wall	9491	28444
+115	1114	Chemical Reactions	356	679
+116	1115	Statistical Trouble	82	197
+117	1116	Library	249	751
+118	1117	Pairs of Integers	928	3705
+119	1118	Lining Up	6923	21955
+120	1119	Start Up the Startup	525	2115
+121	1120	A New Growth Industry	1160	2425
+122	1121	Algernon's Noxious Emissions	139	290
+123	1122	FDNY to the Rescue!	705	2317
+124	1123	For the Porsche	133	348
+125	1124	Oh, Those Achin' Feet	117	398
+126	1125	Stockbroker Grapevine	13979	25349
+127	1126	Simply Syntax	2237	5052
+128	1127	Jack Straws	1375	3065
+129	1128	Frame Stacking	1337	3968
+130	1129	Channel Allocation	5940	11599
+131	1130	Alien Security	983	2680
+132	1131	Octal Fractions	3529	6477
+133	1132	Border	1750	3700
+134	1133	Stars	148	710
+135	1134	Hexagon	155	304
+136	1135	Domino Effect	2028	8050
+137	1136	Pendulum	81	235
+138	1137	The New Villa	423	1290
+139	1138	Ships	93	740
+140	1139	Cat and Mouse	278	913
+141	1140	Expanding Fractions	1306	3279
+142	1141	Brackets Sequence	6709	23804
+143	1142	Smith Numbers	4036	11738
+144	1143	Number Game	1211	3015
+145	1144	Network	4088	8747
+146	1145	Tree Summing	1783	7806
+147	1146	ID Codes	3459	5795
+148	1147	Binary codes	2164	5565
+149	1148	Utopia Divided	346	793
+150	1149	PIGS	6822	15314
+151	1150	The Last Non-zero Digit	1335	4613
+152	1151	Atlantis	6255	16418
+153	1152	An Easy Problem!	2163	8572
+154	1153	SAFE	223	923
+155	1154	LETTERS	2754	5855
+156	1155	TELE	1818	3508
+157	1156	A STRIP OF LAND	1953	6603
+158	1157	LITTLE SHOP OF FLOWERS	8028	17379
+159	1158	TRAFFIC LIGHTS	3027	7247
+160	1159	Palindrome	17369	50461
+161	1160	Post Office	8172	15074
+162	1161	Walls	3625	7402
+163	1162	Building with Blocks	146	356
+164	1163	The Triangle	21367	35708
+165	1164	The Castle	3495	6193
+166	1165	The Primes	787	1839
+167	1166	The Clocks	5667	14178
+168	1167	The Buses	1552	5604
+169	1168	The Circle	266	767
+170	1169	Packing Rectangles	556	1014
+171	1170	Shopping Offers	1812	4317
+172	1171	Letter Game	3325	12156
+173	1172	Street Race	214	994
+174	1173	Bar Codes	298	848
+175	1174	Contact	710	2335
+176	1175	Starry Night	608	1588
+177	1176	Party Lamps	1322	3830
+178	1177	Picture	5277	9965
+179	1178	Camelot	1277	2726
+180	1179	Polygon	1973	4703
+181	1180	Batch Scheduling	1406	3076
+182	1181	Bus Terminals	211	582
+183	1182	食物链	12026	41359
+184	1183	反正切函数的应用	5131	14202
+185	1184	聪明的打字员	1271	6227
+186	1185	炮兵阵地	6765	17629
+187	1186	方程的解数	2202	6409
+188	1187	陨石的秘密	684	1957
+189	1188	Gleaming the Cubes	653	1217
+190	1189	钉子和小球	2058	6900
+191	1190	生日蛋糕	4588	13029
+192	1191	棋盘分割	4146	11750
+193	1192	最优连通子集	1225	2314
+194	1193	内存分配	897	4358
+195	1194	HIDDEN CODES	93	340
+196	1195	Mobile phones	6489	13960
+197	1196	Twofive	147	375
+198	1197	Depot	132	426
+199	1198	Solitaire	1316	3717
+200	1199	Left labyrinths	89	502201	1200	Crazy Search	6109	21610
+202	1201	Intervals	7768	20566
+203	1202	Family	114	606
+204	1203	Timetable	106	344
+205	1204	Word Puzzles	3362	8951
+206	1205	Water Treatment Plants	458	768
+207	1206	Servers	153	421
+208	1207	The 3n + 1 problem	15851	50125
+209	1208	The Blocks Problem	1807	4364
+210	1209	Calendar	75	529
+211	1210	City Directions	29	160
+212	1211	Traffic Lights	173	385
+213	1212	Eeny Meeny	79	209
+214	1213	Roman Numerals	144	251
+215	1214	"Accordian" Patience	231	524
+216	1215	Gondwanaland Telecom	191	567
+217	1216	Simulation Wizardry	149	233
+218	1217	FOUR QUARTERS	425	938
+219	1218	THE DRUNK JAILER	14200	22484
+220	1219	L-I-N-G-O: LINGO	222	980
+221	1220	NUMBER BASE CONVERSION	1832	4107
+222	1221	UNIMODAL PALINDROMIC DECOMPOSITIONS	2347	4770
+223	1222	EXTENDED LIGHTS OUT	4094	6223
+224	1223	DEHUFF	93	249
+225	1224	PICTURE PUZZLE	87	270
+226	1225	STRICTLY INSCRIBED SIMILAR TRIANGLES	30	95
+227	1226	Substrings	3887	11137
+228	1227	RoboContest	169	521
+229	1228	Grandpa's Estate	2835	10502
+230	1229	Wild Domains	278	859
+231	1230	Pass-Muraille	2783	8879
+232	1231	The Alphabet Game	421	1050
+233	1232	Microfiches	51	132
+234	1233	Street Crossing	77	359
+235	1234	Ball Toss	396	876
+236	1235	Galactic Breakup	112	246
+237	1236	Network of Schools	4161	10439
+238	1237	The Postal Worker Rings Once	437	688
+239	1238	Arbitrage	233	539
+240	1239	Increasing Sequences	1077	2867
+241	1240	Pre-Post-erous!	1247	2030
+242	1241	Knockout Tournament	488	782
+243	1242	Plugged In	197	359
+244	1243	One Person	1415	2100
+245	1244	Slots of Fun	659	1146
+246	1245	Programmer, Rank Thyself	446	1165
+247	1246	Hilbert Curve Intersections	52	144
+248	1247	Magnificent Meatballs	4385	6583
+249	1248	Safecracker	1293	2306
+250	1249	Oil Pipeline	95	282
+251	1250	Tanning Salon	3894	7232
+252	1251	Jungle Roads	8368	18397
+253	1252	Euro Efficiency	1355	3132
+254	1253	Markov Trains	64	287
+255	1254	Hansel and Grethel	921	2025
+256	1255	Floors	172	421
+257	1256	Anagram	7026	17240
+258	1257	Cross-stitch.	120	332
+259	1258	Agri-Net	14724	36561
+260	1259	The Picnic	309	1100
+261	1260	Pearls	3453	7060
+262	1261	Huffman Trees	100	631
+263	1262	Input	290	673
+264	1263	Reflections	459	1111
+265	1264	SCUD Busters	310	707
+266	1265	Area	2097	4630
+267	1266	Cover an Arc.	300	799
+268	1267	Fence	191	801
+269	1268	Forests	38	151
+270	1269	Intersecting Lines	4422	9878
+271	1270	Following Orders	1364	3495
+272	1271	Nice Milk	325	1294
+273	1272	Synchronous Design	83	288
+274	1273	Drainage Ditches	20308	53313
+275	1274	The Perfect Stall	7972	17487
+276	1275	Cashier Employment	2545	6890
+277	1276	Cash Machine	9030	25653
+278	1277	Beer Land	255	531
+279	1278	BOAT	107	330
+280	1279	Art Gallery	2161	5002
+281	1280	Game	105	220
+282	1281	MANAGER	871	2413
+283	1282	庆典的日期	273	2328
+284	1283	Moving Computer	884	1988
+285	1284	Primitive Roots	1528	2708
+286	1285	Combinations, Once Again	475	1442
+287	1286	Necklace of Beads	2649	6355
+288	1287	Networking	3090	5739
+289	1288	Sly Number	122	312
+290	1289	The Cat in the Hat	510	1462
+291	1290	Grandpa's Rubik Cube	200	307
+292	1291	This Sentence is False	398	920
+293	1292	Will Indiana Jones Get There?	488	1775
+294	1293	Duty Free Shop	434	1086
+295	1294	Not Too Convex Hull	115	367
+296	1295	I hate SPAM, but some people love it	125	271
+297	1296	Noise Effect	123	223
+298	1297	Supermarket	610	1579
+299	1298	The Hardest Problem Ever	12014	21903
+300	1299	Polar Explorer	1373	3934301	1300	Door Man	747	1908
+302	1301	The Umbrella Problem: 2054	131	259
+303	1302	Blue Gene, Jr.	269	408
+304	1303	Byte Me!	109	231
+305	1304	World's Worst Bus Schedule	277	773
+306	1305	Fermat vs. Pythagoras	716	1224
+307	1306	Combinations	3872	8328
+308	1307	Mapping the Route	182	437
+309	1308	Is It A Tree?	7034	20516
+310	1309	Coconuts, Revisited	822	1975
+311	1310	Nonstop Travel	160	475
+312	1311	Doing Windows	94	301
+313	1312	Numerically Speaking	595	1015
+314	1313	Booklet Printing	1068	2127
+315	1314	Finding Rectangles	667	1797
+316	1315	Don't Get Rooked	1380	2172
+317	1316	Self Numbers	11612	20664
+318	1317	Do the Untwist	2027	3334
+319	1318	Word Amalgamation	3907	8037
+320	1319	Pipe Fitters	660	1460
+321	1320	Street Numbers	1418	2550
+322	1321	棋盘问题	10404	20973
+323	1322	Chocolate	2163	8165
+324	1323	Game Prediction	4485	9403
+325	1324	Holedox Moving	3053	12922
+326	1325	Machine Schedule	4736	11174
+327	1326	Mileage Bank	5532	13256
+328	1327	Moving Object Recognition	322	532
+329	1328	Radar Installation	10789	48473
+330	1329	Circle Through Three Points	1341	3167
+331	1330	Nearest Common Ancestors	8845	16546
+332	1331	Multiply	2724	5100
+333	1332	Finding Liars	685	1529
+334	1333	Christmas Gifts	51	120
+335	1334	Two Mountaineers	159	371
+336	1335	Digital Onion	125	428
+337	1336	The K-League	206	610
+338	1337	A Lazy Worker	350	1033
+339	1338	Ugly Numbers	8783	19805
+340	1339	poker card game	232	747
+341	1340	The Longest Detour Problem	221	632
+342	1341	The Strongest Subchains	167	702
+343	1342	Tag Trees	102	281
+344	1343	Rooted Trees Isomorphism	145	474
+345	1344	Tree Size Problem	219	393
+346	1345	Address Recovery	5	20
+347	1346	Board of Directors Meeting	16	66
+348	1347	Triangle	66	223
+349	1348	Computing	254	1710
+350	1349	Coding of Permutations	401	926
+351	1350	Cabric Number Problem	2923	9614
+352	1351	Number of Locks	530	1098
+353	1352	Quantity of White Mice	137	462
+354	1353	Color Change of Go Game Pieces	294	453
+355	1354	Placement of Keys	769	1461
+356	1355	Selecting the Optimal Teaching Fiends	154	1042
+357	1356	Grandpa's Other Estate	230	429
+358	1357	Afshung Pizza Delivery	46	122
+359	1358	Housing Complexes	107	255
+360	1359	Spacecraft Malfunction	142	403
+361	1360	Blue x Red = Bang	27	200
+362	1361	JaWs	23	77
+363	1362	Skew Binary	345	612
+364	1363	Rails	9408	23741
+365	1364	King	3575	9573
+366	1365	Prime Land	1282	2722
+367	1366	Word	224	835
+368	1367	Time	178	551
+369	1368	Puzzle	132	501
+370	1369	Append	124	415
+371	1370	Gossiping	166	393
+372	1371	Tin Cutter	269	762
+373	1372	FORCAL	91	230
+374	1373	L-system	109	928
+375	1374	Crosswords	168	444
+376	1375	Intervals	1118	3899
+377	1376	Robot	1952	5999
+378	1377	Good Approximation Problem	225	975
+379	1378	Power Cable Problem	175	339
+380	1379	Run Away	1712	5593
+381	1380	Equipment Box	1059	3997
+382	1381	Secret Code	177	491
+383	1382	The Proper Key	206	517
+384	1383	Labyrinth	1402	3693
+385	1384	Piggy-Bank	3499	7294
+386	1385	Lifting the Stone	842	2437
+387	1386	Play on Words	3101	8878
+388	1387	The Constraint Densest Submatrix	224	964
+389	1388	Hinge Node Problem	265	389
+390	1389	Area of Simple Polygons	1537	3021
+391	1390	Blocks	1616	4065
+392	1391	Erdos Numbers	387	1166
+393	1392	Ouroboros Snake	467	948
+394	1393	Fold-up Patterns	35	61
+395	1394	Railroad	356	1036
+396	1395	Cog-Wheels	239	1916
+397	1396	Simple Arithmetics	472	1879
+398	1397	The Bulk	79	145
+399	1398	Complete the sequence!	475	910
+400	1399	Direct Visibility	126	278401	1400	Complicated Expressions	469	1425
+402	1401	Factorial	8613	13890
+403	1402	The Game of Master-Mind	82	174
+404	1403	Hotline	103	250
+405	1404	I-Keyboard	2073	4221
+406	1405	Heritage	2585	6997
+407	1406	Starship Hakodate-maru	863	1382
+408	1407	e-Market	140	377
+409	1408	Fishnet	1115	1751
+410	1409	77377	313	838
+411	1410	Intersection	2891	10993
+412	1411	Calling Extraterrestrial Intelligence Again	4187	10633
+413	1412	Equals are Equals	85	430
+414	1413	GIGA Universe Cup	57	175
+415	1414	Life Line	548	751
+416	1415	Map of Ninja House	192	547
+417	1416	Shredding Company	2195	3871
+418	1417	True Liars	550	1823
+419	1418	Viva Confetti	314	749
+420	1419	Graph Coloring	1721	3843
+421	1420	Spreadsheet	264	556
+422	1421	Peter's Calculator	74	318
+423	1422	Air Raid	3807	6370
+424	1423	Big Number	8001	25011
+425	1424	Diamonds	82	307
+426	1425	Enigmatic Travel	124	190
+427	1426	Find The Multiple	6842	16795
+428	1427	Get Them All	58	126
+429	1428	Hermes' Colony	34	214
+430	1429	Alice and Bob	261	906
+431	1430	Binary Stirling Numbers	667	1749
+432	1431	Calendar of Maya	94	193
+433	1432	Decoding Morse Sequences	601	1441
+434	1433	Exchanges	235	442
+435	1434	Fill the Cisterns!	1064	3144
+436	1435	Gates	117	237
+437	1436	Horizontally Visible Segments	1327	3604
+438	1437	Chat Rooms	97	563
+439	1438	One-way Traffic	211	616
+440	1439	Rhombs	63	110
+441	1440	Varacious Steve	156	344
+442	1441	Table	71	266
+443	1442	Black Box	2691	6676
+444	1443	DEL command	65	205
+445	1444	Parallelepiped walk	176	744
+446	1445	Random number	36	108
+447	1446	Moscow Time	66	218
+448	1447	Ambiguous Dates	56	136
+449	1448	Cube	101	294
+450	1449	Enigma	57	159
+451	1450	Gridland	3957	7657
+452	1451	T9	1162	3245
+453	1452	Signal Box	25	62
+454	1453	Delta Encoding and Decoding	208	691
+455	1454	Factorial Frequencies	1188	2724
+456	1455	Crazy tea party	4698	6926
+457	1456	Supermarket	3655	8466
+458	1457	Lord of the Ring	180	533
+459	1458	Common Subsequence	14409	36165
+460	1459	Power Network	11457	21932
+461	1460	Firefighters	335	1016
+462	1461	Binary Polynomials	174	400
+463	1462	Random Walk	178	720
+464	1463	Strategic game	2798	6091
+465	1464	Company	45	338
+466	1465	Multiple	1289	5941
+467	1466	Girls and Boys	4476	10122
+468	1467	Symbolic Derivation	29	63
+469	1468	Rectangles	1656	3196
+470	1469	COURSES	6522	16617
+471	1470	Closest Common Ancestors	4609	14328
+472	1471	Triangles	693	1875
+473	1472	Instant Complexity	563	1631
+474	1473	There's Treasure Everywhere!	847	1832
+475	1474	Video Surveillance	1379	3106
+476	1475	Pushing Boxes	1492	4342
+477	1476	Always On the Run	319	629
+478	1477	Box of Bricks	7103	17267
+479	1478	Island of Logic	153	491
+480	1479	MBone	33	99
+481	1480	Optimal Programs	464	1285
+482	1481	The Die Is Cast	335	789
+483	1482	It's not a Bug, It's a Feature!	478	1245
+484	1483	Going in Circles on Alpha Centauri	42	84
+485	1484	Blowing Fuses	1468	3831
+486	1485	Fast Food	878	2360
+487	1486	Sorting Slides	1211	3130
+488	1487	Single-Player Games	309	1049
+489	1488	TEX Quotes	4428	8446
+490	1489	Egyptian Multiplication	256	921
+491	1490	Cabinets	62	236
+492	1491	Pi	2672	4753
+493	1492	Up and Down Sequences	392	660
+494	1493	Machined Surfaces	1877	2972
+495	1494	Sunrise	164	370
+496	1495	LED Test	153	347
+497	1496	Word Index	2574	4549
+498	1497	Molecules	100	139
+499	1498	Matching Meetings	46	162
+500	1499	Supercomputer Selection, The Sequel	42	86501	1500	Polygonal Puzzle	33	151
+502	1501	Word-Search Wonder	459	1215
+503	1502	MPI Maelstrom	2982	4880
+504	1503	Integer Inquiry	11129	28610
+505	1504	Adding Reversed Numbers	8073	14681
+506	1505	Copying Books	2129	6849
+507	1506	Substitution Cipher	184	1013
+508	1507	Commedia dell' arte	160	404
+509	1508	Skyscraper Floors	170	796
+510	1509	Glass Beads	1323	2276
+511	1510	Hares and Foxes	41	140
+512	1511	Invitation Cards	6024	18372
+513	1512	Keeps Going and Going and ...	42	82
+514	1513	Scheduling Lectures	397	903
+515	1514	Metal Cutting	171	397
+516	1515	Street Directions	345	640
+517	1516	Parallel Deadlock	34	61
+518	1517	u Calculate e	10693	18155
+519	1518	Problem Bee	150	286
+520	1519	Digital Roots	8337	25076
+521	1520	Scramble Sort	1221	2543
+522	1521	Entropy	1742	4448
+523	1522	N-Credible Mazes	291	534
+524	1523	SPF	2557	5534
+525	1524	Cowculations	170	252
+526	1525	Hi-Q	125	154
+527	1526	Call Forwarding	88	155
+528	1527	Making the Grade	85	123
+529	1528	Perfection	5198	10923
+530	1529	Shipping Routes	238	430
+531	1530	Slurpys	210	355
+532	1531	Trooper of Bam	2	167
+533	1532	Mixed Numbers	130	711
+534	1533	Mystery	51	305
+535	1534	Terrorist Attack	29	134
+536	1535	Forgetful	176	732
+537	1536	Trains	10	115
+538	1537	Identifying Legal Pascal Real Constants	238	639
+539	1538	Extrapolation Using a Difference Table	145	253
+540	1539	Evaluating Simple C Expressions	224	516
+541	1540	The Finite State Text-Processing	24	111
+542	1541	Dart-a-Mania	57	132
+543	1542	DNA Translation	57	272
+544	1543	Perfect Cubes	7030	13256
+545	1544	A Puzzling Problem	100	322
+546	1545	Galactic Import	156	317
+547	1546	Basically Speaking	1979	4341
+548	1547	Clay Bully	4558	8084
+549	1548	Robots	1738	3830
+550	1549	Bright Bracelet	156	651
+551	1550	Treadmill	162	302
+552	1551	Data Mining?	137	236
+553	1552	Doubles	10747	18661
+554	1553	Fax Regions	30	97
+555	1554	Tournament Brackets	72	187
+556	1555	Polynomial Showdown	1430	4070
+557	1556	The Doors	2394	5963
+558	1557	Mapmaker	130	189
+559	1558	Board Silly	136	260
+560	1559	Equation Elation	111	225
+561	1560	18 Wheeler Caravans (aka Semigroups)	41	72
+562	1561	Another Puzzling Problem	115	341
+563	1562	Oil Deposits	6442	11907
+564	1563	The Snail	897	1891
+565	1564	Sum It Up	2951	5798
+566	1565	Skew Binary	6575	10292
+567	1566	Haiku Review	478	760
+568	1567	WIMP	38	90
+569	1568	Find the Winning Move	365	736
+570	1569	Myacm Triangles	541	950
+571	1570	Exchange Rates	157	292
+572	1571	Loansome Car Buyer	97	237
+573	1572	Automatic Editing	585	1269
+574	1573	Robot Motion	4831	9982
+575	1574	The Triangle Game	324	560
+576	1575	Easier Done Than Said?	2411	4330
+577	1576	Colorville	169	300
+578	1577	Falling Leaves	2126	3847
+579	1578	Instruens Fabulam	325	685
+580	1579	Function Run Fun	8078	15614
+581	1580	String Matching	1853	3585
+582	1581	A Contesting Decision	1733	2437
+583	1582	Which Way Do I Go?	66	411
+584	1583	Choose Your Words Carefully	544	1780
+585	1584	A Round Peg in a Ground Hole	1590	5069
+586	1585	Helping Florida	94	406
+587	1586	Three Sides Make a Triangle	597	3745
+588	1587	High and Dry	30	122
+589	1588	Reverse Roman Notation	256	698
+590	1589	Unix ls	830	2449
+591	1590	Palindromes	1162	3257
+592	1591	M*A*S*H	476	898
+593	1592	Postscript	76	271
+594	1593	Radar Scopes	46	183
+595	1594	Message Routing	46	77
+596	1595	Prime Cuts	3831	10005
+597	1596	Gears on a Board	32	93
+598	1597	Uniform Generator	2405	5102
+599	1598	Excuses, Excuses!	1235	3580
+600	1599	Station Balance	184	473601	1600	Centipede Collisions	67	256
+602	1601	Pizza Anyone?	212	582
+603	1602	Zip	201	924
+604	1603	Risk	1188	2530
+605	1604	Just the Facts	4509	8515
+606	1605	Horse Shoe Scoring	34	100
+607	1606	Jugs	2646	4489
+608	1607	Deck	3460	7959
+609	1608	Banal Tickets	156	1414
+610	1609	Tiling Up Blocks	1896	4855
+611	1610	Quad Trees	454	902
+612	1611	The Suspects	9976	20560
+613	1612	The Geodetic Set Problem	202	560
+614	1613	Cave Raider	244	805
+615	1614	Space AI Bombs	64	272
+616	1615	Merging Sequences Problem	78	459
+617	1616	Harmonic Periods	131	349
+618	1617	Crypto Columns	1572	2513
+619	1618	Decorations	447	1000
+620	1619	EKG Sequence	298	639
+621	1620	Phone Home	381	760
+622	1621	Polly Nomials	211	435
+623	1622	Pushing Boxes	211	388
+624	1623	Squadtrees	135	351
+625	1624	This Takes the Cake	375	723
+626	1625	Censored!	2049	7576
+627	1626	Chapayev	66	238
+628	1627	Experiment "X": Explosions Expected	89	574
+629	1628	Deduction	167	575
+630	1629	Fillword	663	1267
+631	1630	Max Separation	20	49
+632	1631	Bridging signals	5517	10081
+633	1632	Vase collection	762	2018
+634	1633	Gladiators	239	478
+635	1634	Who's the boss?	1063	2593
+636	1635	Subway tree systems	2738	6528
+637	1636	Prison rearrangement	968	2155
+638	1637	Sightseeing tour	2999	7205
+639	1638	A number game	114	504
+640	1639	Picnic Planning	3173	8955
+641	1640	Poly-polygonal Numbers	175	475
+642	1641	Rational Approximation	52	122
+643	1642	Stacking Cubes	556	1403
+644	1643	Checker's Check	72	162
+645	1644	To Bet or Not To Bet	453	1430
+646	1645	BSP Trees	111	164
+647	1646	Double Trouble	214	453
+648	1647	One-move checkmate	352	1476
+649	1648	Countryside Highway	379	1239
+650	1649	Market Place	192	669
+651	1650	Integer Approximation	1696	5201
+652	1651	Multiplication Puzzle	3496	5777
+653	1652	Holey Cloth	139	377
+654	1653	Compacting Stickers	123	331
+655	1654	Area	3962	14061
+656	1655	Balancing Act	3414	8291
+657	1656	Counting Black	6499	10068
+658	1657	Distance on Chessboard	8092	23579
+659	1658	Eva's Problem	10430	17082
+660	1659	Frogs' Neighborhood	2895	6650
+661	1660	Princess FroG	473	1140
+662	1661	Help Jimmy	2698	8447
+663	1662	CoIns	238	724
+664	1663	Number Steps	7121	13277
+665	1664	放苹果	16004	25161
+666	1665	Biker's Trip Odometer	3381	5351
+667	1666	Candy Sharing Game	2435	3663
+668	1667	Peg Game	151	603
+669	1668	Taxation With Representation Overdone	53	200
+670	1669	It's Logical	182	603
+671	1670	Obstructed Rook Circuits	46	181
+672	1671	Rhyme Schemes	805	1446
+673	1672	Fully Diversified Sequences of Sets	235	459
+674	1673	EXOCENTER OF A TRIANGLE	1255	3201
+675	1674	Sorting by Swapping	4954	9261
+676	1675	Happy Birthday!	1040	4182
+677	1676	What time is it?	520	1314
+678	1677	Girls' Day	651	3207
+679	1678	I Love this Game!	654	1703
+680	1679	The Unique MST	6682	19123
+681	1680	Fork() Makes Trouble	250	388
+682	1681	Painter's Problem	2087	4306
+683	1682	Clans on the Three Gorges	306	605
+684	1683	Puzzlestan	374	1192
+685	1684	Dynamic Declaration Language (DDL)	265	1001
+686	1685	Color Tunnels	298	562
+687	1686	Lazy Math Instructor	1157	3425
+688	1687	Buggy Sat	629	1404
+689	1688	Dolphin Pool	188	404
+690	1689	3002 Rubbery	106	221
+691	1690	(Your)((Term)((Project)))	1129	3019
+692	1691	Painting A Board	1586	3247
+693	1692	Crossed Matchings	1587	2459
+694	1693	Counting Rectangles	506	961
+695	1694	An Old Stone Game	1492	3283
+696	1695	Magazine Delivery	1063	2166
+697	1696	Space Ant	1853	2910
+698	1697	The Erythea Campaign	232	619
+699	1698	Alice's Chance	2080	5070
+700	1699	Best Sequence	1867	4711701	1700	Crossing River	3846	10192
+702	1701	Dissatisfying Lift	1166	5300
+703	1702	Eva's Balance	1905	3875
+704	1703	Find them, Catch them	8849	28876
+705	1704	Georgia and Bob	2149	7170
+706	1705	Generational Replacement	83	254
+707	1706	References	867	4143
+708	1707	Sum of powers	352	731
+709	1708	Game	480	1449
+710	1709	Crossword	276	891
+711	1710	Magic of David Copperfield	261	558
+712	1711	Puncher	31	99
+713	1712	Flying Stars	135	370
+714	1713	Divide et unita	139	392
+715	1714	The Cave	103	269
+716	1715	Hexadecimal Numbers	597	2218
+717	1716	Integer Intervals	5234	12394
+718	1717	Dominoes	1876	5717
+719	1718	River Crossing	292	714
+720	1719	Shooting Contest	1368	3756
+721	1720	SQUARES	259	674
+722	1721	CARDS	725	1348
+723	1722	SUBTRACT	691	1600
+724	1723	SOLDIERS	2439	6477
+725	1724	ROADS	3763	10138
+726	1725	BALL	123	210
+727	1726	Tango Tango Insurrection	155	456
+728	1727	Advanced Causal Measurements (ACM)	529	1505
+729	1728	A flea on a chessboard	623	1889
+730	1729	Jack and Jill	252	959
+731	1730	Perfect Pth Powers	3703	16341
+732	1731	Orders	5547	9066
+733	1732	Phone numbers	1171	3640
+734	1733	Parity game	2279	5864
+735	1734	Sightseeing trip	1772	4616
+736	1735	A Game on the Chessboard	311	790
+737	1736	Block Town	290	721
+738	1737	Connected Graph	1375	2800
+739	1738	An old Stone Game	678	2655
+740	1739	Tony's Tour	1504	3250
+741	1740	A New Stone Game	2543	4680
+742	1741	Tree	2763	9252
+743	1742	Coins	9236	27257
+744	1743	Musical Theme	5885	17145
+745	1744	Elevator Stopping Plan	664	1958
+746	1745	Divisibility	3542	10041
+747	1746	Loan	37	195
+748	1747	Expression	377	600
+749	1748	Computer Dialogue	98	237
+750	1749	Lock Manager	157	377
+751	1750	Dictionary	815	2779
+752	1751	Highways	2145	7764
+753	1752	Advertisement	283	750
+754	1753	Flip Game	12387	28610
+755	1754	Buffer Manager	318	850
+756	1755	Triathlon	1313	5151
+757	1756	Domino Puzzle	95	192
+758	1757	Binary Search	370	980
+759	1758	Frontier	152	357
+760	1759	Garland	551	1240
+761	1760	Disk Tree	879	2355
+762	1761	Easy Task	478	1380
+763	1762	Bundling	35	78
+764	1763	Shortcut	598	1869
+765	1764	Dice Contest	74	1425
+766	1765	November Rain	449	2098
+767	1766	Football	65	114
+768	1767	Which is Next	152	490
+769	1768	Hang or not to hang	176	702
+770	1769	Minimizing maximizer	1246	3164
+771	1770	Special Experiment	596	1776
+772	1771	Elevator Stopping Plan	518	1566
+773	1772	New Go Game	127	678
+774	1773	Outernet	106	269
+775	1774	Fold Paper Strips	155	552
+776	1775	Sum of Factorials	4251	12872
+777	1776	Task Sequences	584	2065
+778	1777	Vivian's Problem	266	744
+779	1778	All Discs Considered	334	888
+780	1779	Boolean Logic	93	212
+781	1780	Code	689	1902
+782	1781	In Danger	1833	3514
+783	1782	Run Length Encoding	1312	4037
+784	1783	Fractran	152	468
+785	1784	Huffman's Greed	673	1138
+786	1785	Binary Search Heap Construction	2431	8526
+787	1786	Bridge Hands	751	1838
+788	1787	Charlie's Change	776	2813
+789	1788	Building a New Depot	766	1867
+790	1789	Truck History	6409	16691
+791	1790	Base Numbers	239	674
+792	1791	Paper Cutting	302	545
+793	1792	Hexagonal Routes	175	420
+794	1793	Storehouse	107	271
+795	1794	Castle Walls	600	1666
+796	1795	DNA Laboratory	280	1454
+797	1796	Extra Terrestrial PISA Test	140	333
+798	1797	Heavy Transportation	5143	19265
+799	1798	Dory's Phonebook	69	241
+800	1799	Yeehaa!	5664	11457801	1800	Magic Trick	181	791
+802	1801	Formula Racing	61	205
+803	1802	Ancient Plates	39	255
+804	1803	Box Art	130	901
+805	1804	Brainman	4421	8174
+806	1805	Friends	159	606
+807	1806	Manhattan 2025	660	1210
+808	1807	Mayan Dates	42	94
+809	1808	Quadratic Residues	417	1245
+810	1809	Regetni	622	1605
+811	1810	Covering	154	964
+812	1811	Prime Test	7058	28164
+813	1812	Zuma Game	97	443
+814	1813	Overlapped Shapes	171	565
+815	1814	Polynomial	23	283
+816	1815	Friendship	2445	8728
+817	1816	Wild Words	1187	4564
+818	1817	Traffic Jam	127	268
+819	1818	ATP	213	625
+820	1819	Disks	350	1468
+821	1820	Expression	22	2308
+822	1821	Fence	1017	3397
+823	1822	Fence2	127	301
+824	1823	Hotel	820	1937
+825	1824	TwoFour	75	192
+826	1825	Young	119	314
+827	1826	The Best Farm	577	1830
+828	1827	A Bunch Of Monsters	323	857
+829	1828	Monkeys' Pride	2840	8601
+830	1829	火力防御网	63	192
+831	1830	开关问题	1930	5226
+832	1831	不定方程组	217	702
+833	1832	连环锁	328	1053
+834	1833	排列	6341	15759
+835	1834	线段处理	89	622
+836	1835	宇航员	1865	4371
+837	1836	Alignment	3939	12300
+838	1837	Balance	6124	9907
+839	1838	Banana	724	1958
+840	1839	Cattle	46	255
+841	1840	Eqs	5679	11616
+842	1841	Meadow	93	508
+843	1842	Parking	40	125
+844	1843	Shire	15	110
+845	1844	Sum	6582	10053
+846	1845	Sumdiv	3269	13354
+847	1846	System	107	297
+848	1847	Tram	3504	9589
+849	1848	Tree	1200	3496
+850	1849	Two	531	1098
+851	1850	Code	3582	7625
+852	1851	Map	146	657
+853	1852	Ants	3860	8504
+854	1853	Cat	364	1469
+855	1854	Evil Straw Warts Live	180	662
+856	1855	Mint	554	1574
+857	1856	Sea Battle	965	2731
+858	1857	To Europe! To Europe!	268	775
+859	1858	Interesting Maze Game	96	303
+860	1859	The Perfect Symmetry	513	1323
+861	1860	Currency Exchange	6491	18366
+862	1861	Network	4959	12874
+863	1862	Stripies	5455	11430
+864	1863	Subnumber	104	869
+865	1864	Funny Card Game	15	61
+866	1865	Practice	78	117
+867	1866	Help!	99	339
+868	1867	Treequivalence	100	346
+869	1868	Antiarithmetic?	673	1346
+870	1869	Test	114	229
+871	1870	Bee Breeding	680	1647
+872	1871	Bullet Hole	22	335
+873	1872	A Dicey Problem	290	857
+874	1873	The Fortified Forest	1480	5199
+875	1874	Trade on Verweggistan	496	1691
+876	1875	Robot	55	177
+877	1876	The Letter Carrier's Rounds	82	270
+878	1877	Flooded!	1559	4903
+879	1878	Jill's Bike	343	1339
+880	1879	Tempus et mobilius Time and motion	478	797
+881	1880	Variable Radix Huffman Encoding	214	664
+882	1881	Sail Race	19	39
+883	1882	Stamps	487	1384
+884	1883	Theseus and the Minotaur	28	141
+885	1884	Train Time	40	398
+886	1885	Uncompress	316	923
+887	1886	Borrowers	323	1321
+888	1887	Testing the CATCHER	5331	14506
+889	1888	Crossword Answers	402	859
+890	1889	Package Pricing	41	456
+891	1890	Switching Channels	234	419
+892	1891	Typesetting	24	228
+893	1892	VTAS - Vessel Traffic Advisory Service	3	135
+894	1893	Monitoring Wheelchair Patients	78	418
+895	1894	Alternative Scale of Notation	721	1983
+896	1895	Bring Them There	154	622
+897	1896	Code Formatting	503	1425
+898	1897	Data Mining	92	343
+899	1898	Entropy	209	879
+900	1899	Farmer Bill's Problem	627	2433901	1900	Game	221	724
+902	1901	Hypertransmission	360	1474
+903	1902	Illumination	44	261
+904	1903	Jurassic Remains	322	921
+905	1904	King's Quest	2512	6992
+906	1905	Expanding Rods	2808	10909
+907	1906	Three powers	1932	4281
+908	1907	Work Reduction	567	1611
+909	1908	Grid Speed	37	293
+910	1909	Marbles on a tree	714	1441
+911	1910	Adam's Genes	24	209
+912	1911	A Well-Formed Problem	60	381
+913	1912	A highway and the seven dwarfs	351	1950
+914	1913	Cocktails	98	499
+915	1914	Cramer's Rule	733	3043
+916	1915	Knight Moves	9576	20689
+917	1916	Rat Attack	314	980
+918	1917	Automatic Poetry	1023	2004
+919	1918	Ranking List	476	1623
+920	1919	Ship Journey	48	289
+921	1920	Towers of Hanoi	912	2081
+922	1921	Paper Cut	52	252
+923	1922	Ride to School	7467	18511
+924	1923	Fourier's Lines	776	2416
+925	1924	The Treasure	384	2104
+926	1925	Spiderman	1180	6032
+927	1926	Pollution	1026	3864
+928	1927	Area in Triangle	701	1306
+929	1928	The Peanuts	3035	7327
+930	1929	Calories from Fat	592	1142
+931	1930	Dead Fraction	575	1787
+932	1931	Biometrics	388	977
+933	1932	XYZZY	925	3201
+934	1933	A Brief Gerrymander	85	260
+935	1934	Trip	748	2935
+936	1935	Journey	618	1629
+937	1936	All in All	11010	27012
+938	1937	Balanced Food	81	303
+939	1938	California Jones and the Gate to Freedom	284	677
+940	1939	Diplomatic License	1566	3334
+941	1940	Polygon Programming with Ease	801	1249
+942	1941	The Sierpinski Fractal	1463	3261
+943	1942	Paths on a Grid	5120	20989
+944	1943	Hall of Fountains	302	809
+945	1944	Fiber Communications	1172	3879
+946	1945	Power Hungry Cows	1134	4605
+947	1946	Cow Cycling	1386	2480
+948	1947	Rebuilding Roads	3926	8713
+949	1948	Triangular Pastures	2026	6250
+950	1949	Chores	2340	5003
+951	1950	Dessert	1737	4628
+952	1951	Extra Krunch	1511	6029
+953	1952	BUY LOW, BUY LOWER	2841	8178
+954	1953	World Cup Noise	7376	14883
+955	1954	Warez Test	36	263
+956	1955	Rubik's Cube	326	643
+957	1956	Pumps and Pipes	48	168
+958	1957	Beehives	120	364
+959	1958	Strange Towers of Hanoi	1605	2418
+960	1959	Darts	685	1194
+961	1960	Time Planner	99	419
+962	1961	Period	5713	12256
+963	1962	Corporative Network	1077	2986
+964	1963	Cave Exploration	84	337
+965	1964	City Game	1873	4723
+966	1965	Cube Root	390	1413
+967	1966	Cable TV Network	1752	3739
+968	1967	Alibaba	86	659
+969	1968	Booklets	287	797
+970	1969	Count on Canton	5255	8963
+971	1970	The Game	1280	4810
+972	1971	Parallelogram Counting	1924	5714
+973	1972	Dice Stacking	833	1344
+974	1973	Software Company	436	1018
+975	1974	The Happy Worm	988	4429
+976	1975	Median Weight Bead	1355	2716
+977	1976	A Mini Locomotive	1261	2259
+978	1977	Odd Loving Bakers	641	1933
+979	1978	Hanafuda Shuffle	2245	3905
+980	1979	Red and Black	11361	21250
+981	1980	Unit Fraction Partition	1525	3886
+982	1981	Circle and Points	2201	6273
+983	1982	Water Tank	89	193
+984	1983	Name the Crossing	137	305
+985	1984	Navigation Nightmare	1546	3852
+986	1985	Cow Marathon	1742	3444
+987	1986	Distance Queries	3016	8601
+988	1987	Distance Statistics	456	1459
+989	1988	Cube Stacking	6117	17756
+990	1989	The Cow Lineup	3063	5145
+991	1990	MooFest	2044	4852
+992	1991	Turning in Homework	448	1018
+993	1992	Jack	643	1910
+994	1993	Caleidoscope	319	689
+995	1994	Logic	17	34
+996	1995	Raising Modulo Numbers	2466	4310
+997	1996	The Highest Profits	265	571
+998	1997	Word Puzzle	489	1090
+999	1998	Lloyd Fifteen Puzzle	234	611
+1000	1999	Quorf	113	4081001	2000	Gold Coins	12936	20674
+1002	2001	Shortest Prefixes	5292	12426
+1003	2002	Squares	5847	15428
+1004	2003	Hire and Fire	552	1966
+1005	2004	Mix and Build	1170	3831
+1006	2005	Blackjack	574	2041
+1007	2006	Litmus Test	786	1473
+1008	2007	Scrambled Polygon	3063	6437
+1009	2008	Moo University - Team Tryouts	1213	4229
+1010	2009	Moo University - Emergency Pizza Order	333	1371
+1011	2010	Moo University - Financial Aid	1319	4319
+1012	2011	Primary X-Subfactor Series	158	347
+1013	2012	Triangle Cuts	33	154
+1014	2013	Symmetric Order	7312	12051
+1015	2014	Flow Layout	2078	3003
+1016	2015	Permutation Code	473	1084
+1017	2016	Ink Blots	52	196
+1018	2017	Speed Limit	11690	16679
+1019	2018	Best Cow Fences	2937	9183
+1020	2019	Cornfields	2553	5196
+1021	2020	MisLED	148	529
+1022	2021	Relative Relatives	1501	3420
+1023	2022	Syntax Included	229	839
+1024	2023	Choose Your Own Adventure	682	1661
+1025	2024	Know When to Hold 'em	34	80
+1026	2025	Cubic Rube	57	203
+1027	2026	As the Crow Flies	158	298
+1028	2027	No Brainer	16358	25084
+1029	2028	When Can We Meet?	2634	4800
+1030	2029	Get Many Persimmon Trees	2219	3393
+1031	2030	The Secret Number	739	2162
+1032	2031	Building a Space Station	2097	4141
+1033	2032	Square Carpets	223	665
+1034	2033	Alphacode	3687	12094
+1035	2034	Anti-prime Sequences	1313	2852
+1036	2035	Hit or Miss	182	452
+1037	2036	I Conduit!	337	1788
+1038	2037	Roll Playing Games	91	436
+1039	2038	Team Rankings	1046	2041
+1040	2039	To and Fro	5547	8314
+1041	2040	Translations	216	563
+1042	2041	Unreliable Message	1225	1993
+1043	2042	Lagrange's Four-Square Theorem	1263	2803
+1044	2043	Area of Polygons	385	971
+1045	2044	Weather Forecast	713	2162
+1046	2045	Molecular Formula	428	831
+1047	2046	Gap	737	1617
+1048	2047	Concert Hall Scheduling	599	1338
+1049	2048	Monster Trap	211	792
+1050	2049	Finding Nemo	1675	7231
+1051	2050	Searching the Web	439	1972
+1052	2051	Argus	4330	9325
+1053	2052	Fun Game	241	1049
+1054	2053	Square	238	904
+1055	2054	Color a Tree	2324	6833
+1056	2055	Kid's Problem	159	687
+1057	2056	The Separator in Grid	797	2594
+1058	2057	The Lost House	871	2110
+1059	2058	Word Encoding	115	273
+1060	2059	Watchdog	847	1321
+1061	2060	Taxi Cab Scheme	2379	5681
+1062	2061	Pseudo-random Numbers	120	400
+1063	2062	Card Game Cheater	776	1514
+1064	2063	Investment	2609	7538
+1065	2064	Pipes	185	378
+1066	2065	SETI	889	1458
+1067	2066	Minimax Triangulation	234	752
+1068	2067	Young, Poor and Busy	86	165
+1069	2068	Nim	655	1180
+1070	2069	Super Star	848	3192
+1071	2070	Filling Out the Team	5241	9367
+1072	2071	Auctions R Us	123	410
+1073	2072	GHOST	36	175
+1074	2073	Doggone Moles	101	284
+1075	2074	Line of Sight	1039	3275
+1076	2075	Tangled in Cables	2249	5635
+1077	2076	All Roads Lead to Albuquerque, er, Rome	60	297
+1078	2077	Balanced Budget Initiative	46	195
+1079	2078	Matrix	1757	3362
+1080	2079	Triangle	2366	8015
+1081	2080	Calendar	3932	10574
+1082	2081	Recaman's Sequence	8816	20768
+1083	2082	Terrible Sets	1538	2984
+1084	2083	Fractal	3522	7229
+1085	2084	Game of Connections	3646	7185
+1086	2085	Inversion	1702	3819
+1087	2086	Land Division Tax	302	688
+1088	2087	Petanque	72	175
+1089	2088	Long Night of Museums	299	1356
+1090	2089	Magic Trick	270	423
+1091	2090	Two-Stacks Solitaire	157	626
+1092	2091	Zing Zhu's Oyster Farm	68	260
+1093	2092	Grandpa is Famous	3793	7549
+1094	2093	Cutting Edge	45	170
+1095	2094	Angry Teacher	195	1054
+1096	2095	Beth Tableaux	31	144
+1097	2096	Collecting Bugs	951	1990
+1098	2097	Drawing Windows	15	46
+1099	2098	Ellipse	123	747
+1100	2099	Fool's Day	39	4821101	2100	Graveyard Design	955	4478
+1102	2101	Honey and Milk Land	1721	3089
+1103	2102	Incredible! Impossible!	195	641
+1104	2103	Jackpot	211	1025
+1105	2104	K-th Number	11318	35499
+1106	2105	IP Address	10517	18252
+1107	2106	Boolean Expressions	947	3095
+1108	2107	Gear Profiles	106	356
+1109	2108	Lazy Pianist	233	1410
+1110	2109	Power of Cryptography	8982	17809
+1111	2110	Mountain Walking	1329	4052
+1112	2111	Millenium Leapcow	713	1896
+1113	2112	Optimal Milking	4017	11084
+1114	2113	Agents	91	275
+1115	2114	Boatherds	363	1114
+1116	2115	C Looooops	4278	16540
+1117	2116	Death to Binary?	447	1447
+1118	2117	Electricity	1141	3391
+1119	2118	Firepersons	382	840
+1120	2119	God of the Vile Baskers	310	916
+1121	2120	Herbalists	59	113
+1122	2121	Inglish-Number Translator	1735	4437
+1123	2122	Japan Plotter Driver	266	585
+1124	2123	Artinals	30	163
+1125	2124	Crankshaft	209	823
+1126	2125	Destroying The Graph	2144	6798
+1127	2126	Factoring a Polynomial	1229	2361
+1128	2127	Greatest Common Increasing Subsequence	2421	9179
+1129	2128	Highways	914	2492
+1130	2129	Invariant Polynomials	114	288
+1131	2130	Jogging	33	381
+1132	2131	Key Insertion	499	1974
+1133	2132	Cow Math	513	1492
+1134	2133	Cow Imposters	422	1608
+1135	2134	Traffic Lights	127	556
+1136	2135	Farm Tour	3951	10675
+1137	2136	Vertical Histogram	8202	16939
+1138	2137	Cowties	939	2785
+1139	2138	Travel Games	1405	3910
+1140	2139	Six Degrees of Cowvin Bacon	1217	2573
+1141	2140	Herd Sums	9196	15476
+1142	2141	Message Decowding	6462	11631
+1143	2142	The Balance	1667	3786
+1144	2143	Make a Sequence	299	480
+1145	2144	Leaky Cryptography	321	435
+1146	2145	Pathological Paths	146	273
+1147	2146	Confusing Login Names	370	1093
+1148	2147	Dice Puzzle	107	234
+1149	2148	Color the Map	220	672
+1150	2149	Inherit the Spheres	131	330
+1151	2150	Crossing Prisms	61	165
+1152	2151	Check the difficulty of problems	1924	4369
+1153	2152	Fire	487	1008
+1154	2153	Rank List	2977	9016
+1155	2154	Color	2426	7356
+1156	2155	Matrix	6363	16929
+1157	2156	National Day Celebration	166	391
+1158	2157	Maze	1045	3311
+1159	2158	A Difficult Mathematics Problem	125	313
+1160	2159	Ancient Cipher	8891	27096
+1161	2160	Box	1314	3589
+1162	2161	Chandelier	387	981
+1163	2162	Document Indexing	129	696
+1164	2163	Easy Trading	878	1937
+1165	2164	Find the Border	139	496
+1166	2165	Gunman	475	1308
+1167	2166	Heapsort	671	1237
+1168	2167	Irrelevant Elements	531	2158
+1169	2168	Joke with Turtles	319	1203
+1170	2169	Kingdom of Magic	267	984
+1171	2170	Lattice Animals	191	511
+1172	2171	Amusing Numbers	472	1193
+1173	2172	Bricks	372	1200
+1174	2173	Cricket Field	330	824
+1175	2174	Decoding Task	472	1047
+1176	2175	Evacuation Plan	814	3066
+1177	2176	Folding	506	1313
+1178	2177	Ghost Busters	67	184
+1179	2178	Heroes Of Might And Magic	212	802
+1180	2179	Inlay Cutters	993	2363
+1181	2180	Bale Figures	328	706
+1182	2181	Jumping Cows	4068	6780
+1183	2182	Lost Cows	5629	8798
+1184	2183	Bovine Math Geniuses	1376	2224
+1185	2184	Cow Exhibition	3191	8555
+1186	2185	Milking Grid	2370	5638
+1187	2186	Popular Cows	9017	22071
+1188	2187	Beauty Contest	8176	26527
+1189	2188	Cow Laundry	716	1093
+1190	2189	Romeo Meets Juliet	544	1182
+1191	2190	ISBN	5281	14969
+1192	2191	Mersenne Composite Numbers	975	2026
+1193	2192	Zipper	5502	15564
+1194	2193	Lenny's Lucky Lotto Lists	883	2070
+1195	2194	Stacking Cylinders	570	1068
+1196	2195	Going Home	8649	16886
+1197	2196	Specialized Four-Digit Numbers	5229	7162
+1198	2197	Jill's Tour Paths	412	1371
+1199	2198	Boundaries on	94	271
+1200	2199	Rate of Return	352	7921201	2200	A Card Trick	285	717
+1202	2201	Cartesian Tree	1197	3090
+1203	2202	Strange Graph	146	699
+1204	2203	Patience	78	122
+1205	2204	Commuter train	125	404
+1206	2205	Self-Replicating Numbers	215	647
+1207	2206	Magic Multiplying Machine	262	752
+1208	2207	Intuitionistic Logic	57	489
+1209	2208	Pyramids	882	2703
+1210	2209	The King	3518	6303
+1211	2210	Metric Time	803	2597
+1212	2211	Photograph	232	335
+1213	2212	Cavern	96	199
+1214	2213	Code	135	213
+1215	2214	Regions	116	218
+1216	2215	Parliament	699	1047
+1217	2216	Roulette	61	198
+1218	2217	Secretary	158	421
+1219	2218	Does This Make Me Look Fat?	1080	2349
+1220	2219	Manifest Destiny	68	243
+1221	2220	Treasure Hunters	171	293
+1222	2221	Frogger's For Dinner	74	136
+1223	2222	Deeper Blue	164	417
+1224	2223	Get Out 'Da Way!	55	173
+1225	2224	Missing Piece 2001	55	142
+1226	2225	Asteroids!	1105	2909
+1227	2226	Muddy Fields	2824	7654
+1228	2227	The Wedding Juicer	1305	2952
+1229	2228	Naptime	891	2237
+1230	2229	Sumsets	4800	11940
+1231	2230	Watchcow	2463	5765
+1232	2231	Moo Volume	5676	19060
+1233	2232	New Stone-Forfex-Cloth Game	456	1130
+1234	2233	GAME AGAIN!	164	534
+1235	2234	Matches Game	4723	8194
+1236	2235	Triangularize the Convex Hull	60	292
+1237	2236	Wireless Network	6363	15132
+1238	2237	Can 1 Marine win 2 Zerglings?	67	421
+1239	2238	Computer Basketball Game	99	209
+1240	2239	Selecting Courses	3649	8223
+1241	2240	Arbitrage	6067	14452
+1242	2241	The Tower of Babylon	1174	2072
+1243	2242	The Circumference of the Circle	4329	6941
+1244	2243	Knight Moves	6070	10753
+1245	2244	Eeny Meeny Moo	2165	3124
+1246	2245	Lotto	3906	6145
+1247	2246	Matrix Chain Multiplication	1235	1957
+1248	2247	Humble Numbers	4359	9219
+1249	2248	Addition Chains	2512	4593
+1250	2249	Binomial Showdown	5305	17363
+1251	2250	Compromise	2720	6014
+1252	2251	Dungeon Master	6028	15571
+1253	2252	Equation Solver	331	578
+1254	2253	Frogger	7727	23760
+1255	2254	Globetrotter	477	1427
+1256	2255	Tree Recovery	6732	10692
+1257	2256	Artificial Intelligence?	589	1173
+1258	2257	Balancing Bank Accounts	455	962
+1259	2258	The Settlers of Catan	671	1022
+1260	2259	Team Queue	916	2450
+1261	2260	Error Correction	3628	5523
+1262	2261	France '98	704	1102
+1263	2262	Goldbach's Conjecture	13981	36499
+1264	2263	Heavy Cargo	1699	3156
+1265	2264	Advanced Fruits	946	1915
+1266	2265	Bee Maja	677	1047
+1267	2266	Quadtree	269	845
+1268	2267	From Dusk till Dawn or: Vladimir the Vampire	374	1173
+1269	2268	Euro Cup 2000	115	215
+1270	2269	Friends	497	1061
+1271	2270	Quadtree II or: Florida Jones strikes back	185	350
+1272	2271	HTML	1986	6031
+1273	2272	Bullseye	2188	4629
+1274	2273	An Excel-lent Problem	1081	1673
+1275	2274	The Race	654	3145
+1276	2275	Flipping Pancake	609	1393
+1277	2276	Model Rocket Height	407	705
+1278	2277	Region Filling	49	294
+1279	2278	Histology Assistant	51	142
+1280	2279	Mr. Young's Picture Permutations	459	908
+1281	2280	Amphiphilic Carbon Molecules	457	1377
+1282	2281	Link and Pop -- the Block Game	125	489
+1283	2282	The Counting Problem	1787	3365
+1284	2283	Different Digits	708	2651
+1285	2284	That Nice Euler Circuit	524	1700
+1286	2285	The Floor Bricks	195	452
+1287	2286	The Rotation Game	1647	4956
+1288	2287	Tian Ji -- The Horse Racing	3168	10345
+1289	2288	Islands and Bridges	2188	8477
+1290	2289	Jamie's Contact Groups	2032	6346
+1291	2290	House Numbers	252	981
+1292	2291	Rotten Ropes	3294	5087
+1293	2292	Optimal Keypad	256	525
+1294	2293	Hey, Pay Day!	41	113
+1295	2294	Unfoldung	46	282
+1296	2295	A DP Problem	1083	3442
+1297	2296	Map Labeler	495	1514
+1298	2297	Balanced Chemical Equations	87	212
+1299	2298	Great Circle	88	291
+1300	2299	Ultra-QuickSort	13801	383071301	2300	Up the Ante	77	226
+1302	2301	Beat the Spread!	8431	17692
+1303	2302	Traditional BINGO	495	1033
+1304	2303	Russian Dolls	295	1180
+1305	2304	Combination Lock	2714	4402
+1306	2305	Basic remains	1982	4684
+1307	2306	Genealogical Research	81	266
+1308	2307	Treasure Map	82	205
+1309	2308	Dearboy's Puzzle	185	1115
+1310	2309	BST	4989	8262
+1311	2310	Cubic Tick-Tack-Toe	112	844
+1312	2311	Cutting Game	1004	2735
+1313	2312	Battle City	2256	6706
+1314	2313	Sequence	1452	3652
+1315	2314	POJ language	71	376
+1316	2315	Football Game	56	199
+1317	2316	SPIN	3215	6217
+1318	2317	SHAKE	267	546
+1319	2318	TOYS	4694	9833
+1320	2319	COMPRESS	129	471
+1321	2320	SHEET	137	329
+1322	2321	GYM	227	390
+1323	2322	PLANKS	108	314
+1324	2323	PERMS	640	1300
+1325	2324	Intellectual Property	70	141
+1326	2325	Persistent Numbers	1440	2950
+1327	2326	Major Scales	227	381
+1328	2327	Dumb Bones	186	322
+1329	2328	Guessing Game	4995	14263
+1330	2329	Nearest number - 2	1206	3938
+1331	2330	Advanced ASCII Cubes	315	628
+1332	2331	Water pipe	532	2049
+1333	2332	One is good, but two is better	140	340
+1334	2333	Beach cut	188	891
+1335	2334	Simple prefix compression	612	1262
+1336	2335	Temple of Dune	183	567
+1337	2336	Ferry Loading II	1818	3582
+1338	2337	Catenyms	2373	9023
+1339	2338	Basic	220	881
+1340	2339	Rock, Scissors, Paper	2181	3730
+1341	2340	Memory management	290	702
+1342	2341	Spell checker	239	711
+1343	2342	Anniversary party	2166	3854
+1344	2343	Airline company	127	381
+1345	2344	Nikifor	104	195
+1346	2345	Central heating	210	457
+1347	2346	Lucky tickets	2029	3114
+1348	2347	Equations	149	686
+1349	2348	Euclid's Game	2990	7295
+1350	2349	Arctic Network	3030	9073
+1351	2350	Above Average	7534	14322
+1352	2351	Time Zones	671	2406
+1353	2352	Stars	13184	30232
+1354	2353	Ministry	1374	4274
+1355	2354	Titanic	516	2059
+1356	2355	Railway tickets	905	2564
+1357	2356	Find a multiple	2402	5520
+1358	2357	Labyrinth	272	533
+1359	2358	Queens in peaceful positions	561	1176
+1360	2359	Questions	477	1309
+1361	2360	Trains	53	190
+1362	2361	Tic Tac Toe	752	1996
+1363	2362	Square	6727	19399
+1364	2363	Blocks	3447	7153
+1365	2364	Faucet Flow	110	388
+1366	2365	Rope	2241	6235
+1367	2366	Sacrament of the sum	872	1918
+1368	2367	Genealogical tree	1744	2602
+1369	2368	Buttons	722	2856
+1370	2369	Permutations	1329	2539
+1371	2370	Democracy in danger	2168	2963
+1372	2371	Questions and answers	5420	10193
+1373	2372	D++ Again	175	509
+1374	2373	Dividing the Path	1148	3127
+1375	2374	Fence Obstacle Course	770	2122
+1376	2375	Cow Ski Area	602	2078
+1377	2376	Cleaning Shifts	2602	9819
+1378	2377	Bad Cowtractors	4210	9900
+1379	2378	Tree Cutting	2115	3572
+1380	2379	ACM Rank Table	1098	4214
+1381	2380	Sales Report	541	1826
+1382	2381	Random Gap	1345	5040
+1383	2382	Radio Coverage	242	817
+1384	2383	Circle Drawing	323	2069
+1385	2384	Harder Sokoban Problem	305	707
+1386	2385	Apple Catching	3469	7108
+1387	2386	Lake Counting	9372	18582
+1388	2387	Til the Cows Come Home	9176	27231
+1389	2388	Who's in the Middle	17523	30249
+1390	2389	Bull Math	6320	12280
+1391	2390	Bank Interest	8452	14143
+1392	2391	Ombrophobic Bovines	2978	13630
+1393	2392	Space Elevator	3722	7852
+1394	2393	Yogurt factory	3133	6127
+1395	2394	Checking an Alibi	2205	6045
+1396	2395	Out of Hay	3998	10315
+1397	2396	Budget	2131	5590
+1398	2397	Spiderman	588	1537
+1399	2398	Toy Storage	2160	3702
+1400	2399	A Mayor Problem	56	1691401	2400	Supervisor, Supervisee	666	2361
+1402	2401	Street Polygon	22	198
+1403	2402	Palindrome Numbers	1382	3674
+1404	2403	Hay Points	3772	5840
+1405	2404	Jogging Trails	842	2108
+1406	2405	Beavergnaw	4070	6171
+1407	2406	Power Strings	12488	29901
+1408	2407	Relatives	5229	10874
+1409	2408	Anagram Groups	1030	3883
+1410	2409	Let it Bead	2827	4310
+1411	2410	Simple Computers	672	2041
+1412	2411	Mondriaan's Dream	6277	10797
+1413	2412	Equidistance	138	298
+1414	2413	How many Fibs?	3818	10262
+1415	2414	Phylogenetic Trees Inherited	296	476
+1416	2415	Hike on a Graph	577	1330
+1417	2416	Return of the Jedi	81	182
+1418	2417	Discrete Logging	1551	3261
+1419	2418	Hardwood Species	6889	17347
+1420	2419	Forests	2155	5666
+1421	2420	A Star not a Tree?	1645	3241
+1422	2421	Constructing Roads	7732	18705
+1423	2422	The Wolves and the Sheep	94	398
+1424	2423	The Parallel Challenge Ballgame	36	144
+1425	2424	Flo's Restaurant	837	2719
+1426	2425	A Chess Game	1252	3054
+1427	2426	Remainder	569	3047
+1428	2427	Smith's Problem	340	855
+1429	2428	Surface Reconstruction	63	152
+1430	2429	GCD & LCM Inverse	1670	8880
+1431	2430	Lazy Cows	893	2314
+1432	2431	Expedition	1818	6062
+1433	2432	Around the world	289	807
+1434	2433	Landscaping	386	879
+1435	2434	Waves	158	375
+1436	2435	Navigating the City	472	872
+1437	2436	Disease Management	2057	4323
+1438	2437	Muddy roads	1095	2315
+1439	2438	Children's Dining	531	4104
+1440	2439	Disconnect the Orange!?	179	410
+1441	2440	DNA	1303	3296
+1442	2441	Arrange the Bulls	1236	3274
+1443	2442	Sequence	2115	6654
+1444	2443	Set Operation	988	2544
+1445	2444	Partition a Matrix	555	2074
+1446	2445	Squares	312	828
+1447	2446	Chessboard	3918	12611
+1448	2447	RSA	730	3416
+1449	2448	A New Operating System	103	998
+1450	2449	Remmarguts' Date	5376	19759
+1451	2450	A New Kind of Chess	50	262
+1452	2451	Uyuw's Concert	2573	6505
+1453	2452	Sticks Problem	2510	9515
+1454	2453	An Easy Problem	4587	7686
+1455	2454	Jersey Politics	1174	4725
+1456	2455	Secret Milking Machine	2658	8873
+1457	2456	Aggressive cows	2698	5389
+1458	2457	Part Acquisition	1479	3397
+1459	2458	Rigging the Bovine Election	707	1612
+1460	2459	Feed Accounting	1081	1978
+1461	2460	Brownie Points I	832	1308
+1462	2461	Magic Bitstrings	283	639
+1463	2462	Cutting a polygon	226	777
+1464	2463	Bungee Jumping	560	1268
+1465	2464	Brownie Points II	670	1892
+1466	2465	Adventures in Moving - Part IV	820	2315
+1467	2466	Pairsumonious Numbers	479	955
+1468	2467	Snow Clearing	359	804
+1469	2468	Adventures in Moving - Part V	81	293
+1470	2469	Stack 'em Up	369	939
+1471	2470	Ambiguous permutations	3545	6008
+1472	2471	Bullshit Bingo	669	1942
+1473	2472	106 miles to Chicago	1772	3811
+1474	2473	Decorate the wall	356	935
+1475	2474	European railroad tracks	240	842
+1476	2475	Any fool can do it	533	1429
+1477	2476	Game schedule required	185	531
+1478	2477	Help the problem setter	155	388
+1479	2478	Farey Sequence	4485	11540
+1480	2479	Maximum sum	9927	32236
+1481	2480	Longge's problem	2217	6869
+1482	2481	Cows	3810	11541
+1483	2482	Stars in Your Window	2553	9237
+1484	2483	Greatest Common Subtree	160	354
+1485	2484	A Funny Game	2289	3830
+1486	2485	Highways	9569	20672
+1487	2486	Apple Tree	2281	6876
+1488	2487	Stamps	3592	7632
+1489	2488	A Knight's Journey	9712	28417
+1490	2489	Line Segments	265	1553
+1491	2490	Pimp My Ride	469	1561
+1492	2491	Scavenger Hunt	1379	2495
+1493	2492	A Bug's Life	8745	26798
+1494	2493	Rdeaalbe	470	1903
+1495	2494	Acid Text	208	843
+1496	2495	Incomplete chess boards	1481	2410
+1497	2496	Military Recruit	554	1141
+1498	2497	Strategies	1281	2624
+1499	2498	StuPId	3457	6579
+1500	2499	Binary Tree	2694	58061501	2500	Pia's Party	454	1636
+1502	2501	Average Speed	2123	4750
+1503	2502	Subway	1860	5762
+1504	2503	Babelfish	13090	30426
+1505	2504	Bounding box	548	1302
+1506	2505	A multiplication game	2563	5069
+1507	2506	Tiling	3503	7178
+1508	2507	Crossed ladders	1846	4788
+1509	2508	Conic distance	972	2312
+1510	2509	Peter's smokes	6882	16762
+1511	2510	Tullia and Chocolate II	360	1661
+1512	2511	The Top Shelf	412	1406
+1513	2512	Chessboard in FEN	350	823
+1514	2513	Colored Sticks	7683	29042
+1515	2514	Ridiculous Addition	401	1887
+1516	2515	Birthday Cake	395	1024
+1517	2516	Minimum Cost	4403	12908
+1518	2517	Cover	24	159
+1519	2518	Little guys' game	176	571
+1520	2519	Cutting Necklace	169	1268
+1521	2520	DNA Sequence Alignment	280	2331
+1522	2521	How much did the businessman lose	6577	9711
+1523	2522	Partitioning for fun and profit	291	946
+1524	2523	ASCII Labyrinth	152	314
+1525	2524	Ubiquitous Religions	11020	22370
+1526	2525	Text Formalization	176	950
+1527	2526	Center of symmetry	1053	2363
+1528	2527	Polynomial Remains	651	1138
+1529	2528	Mayor's posters	11152	38353
+1530	2529	Queuing at the doctors	171	487
+1531	2530	Tetris Alphabet	504	1249
+1532	2531	Network Saboteur	4095	8808
+1533	2532	Burned Calendar	131	405
+1534	2533	Longest Ordered Subsequence	13474	30883
+1535	2534	Falling cards	67	285
+1536	2535	Very Simple Problem	1492	3985
+1537	2536	Gopher II	2554	6201
+1538	2537	Tight words	1226	2560
+1539	2538	WERTYU	3838	8034
+1540	2539	Division	644	2424
+1541	2540	Hotter Colder	971	2311
+1542	2541	Binary Witch	485	1325
+1543	2542	Fool Game	66	220
+1544	2543	Spreadsheet	102	379
+1545	2544	PreQueL	48	197
+1546	2545	Hamming Problem	2929	6381
+1547	2546	Circular Area	2018	5018
+1548	2547	No Tipping	318	813
+1549	2548	Subway	168	343
+1550	2549	Sumsets	2262	8243
+1551	2550	Zipf's Law	526	1748
+1552	2551	Ones	6041	10636
+1553	2552	Assistance Required	1579	2695
+1554	2553	The Bottom of a Graph	3517	8490
+1555	2554	Fixed Partition Contest Management	120	291
+1556	2555	Drink, on Ice	825	1373
+1557	2556	Edge	838	1201
+1558	2557	Fold	153	340
+1559	2558	Genetic Code	640	1192
+1560	2559	Largest Rectangle in a Histogram	4483	13937
+1561	2560	Freckles	3225	6478
+1562	2561	Language Cardinality	208	899
+1563	2562	Primary Arithmetic	3800	10243
+1564	2563	Demerit Points	165	450
+1565	2564	Edit Step Ladders	963	2561
+1566	2565	Average is not Fast Enough!	910	2058
+1567	2566	Bound Found	492	1468
+1568	2567	Code the Tree	853	2238
+1569	2568	Decode the Tree	485	1205
+1570	2569	Etaoin Shrdlu	653	1248
+1571	2570	Fiber Network	1349	2930
+1572	2571	Global Roaming	390	744
+1573	2572	Hard to Believe, but True!	1989	3486
+1574	2573	Bridge	1151	3240
+1575	2574	Saskatchewan	209	805
+1576	2575	Jolly Jumpers	4849	15960
+1577	2576	Tug of War	2194	8156
+1578	2577	Interpreter	712	2038
+1579	2578	Keep on Truckin'	5976	7907
+1580	2579	Blurred Vision	1383	1900
+1581	2580	The Door/Key Problem	198	622
+1582	2581	Exact Change Only	870	2539
+1583	2582	Finding Nemo	203	432
+1584	2583	Series Determination	4029	6120
+1585	2584	T-Shirt Gumbo	1173	2524
+1586	2585	Window Pains	758	1522
+1587	2586	Y2K Accounting Bug	4761	9534
+1588	2587	Airline Hub	613	1882
+1589	2588	Snakes	330	970
+1590	2589	Snap	209	521
+1591	2590	Steps	3477	7521
+1592	2591	Set Definition	4307	9222
+1593	2592	Standard Point System	197	753
+1594	2593	Max Sequence	6373	15147
+1595	2594	Treasure Exploration	2611	6471
+1596	2595	Min-Max	489	2135
+1597	2596	Dice Stacking	377	1503
+1598	2597	Line Segment Erase	413	1437
+1599	2598	Match Throwing Game	304	985
+1600	2599	A funny game	780	18421601	2600	Geometrical dreams	289	521
+1602	2601	Simple calculations	3245	6439
+1603	2602	Superlong sums	6499	22084
+1604	2603	Brave balloonists	2003	4689
+1605	2604	Preparing an article	136	538
+1606	2605	Simple game on a grid	468	895
+1607	2606	Rabbit hunt	3665	7318
+1608	2607	Fire Station	1283	3605
+1609	2608	Soundex	4545	9175
+1610	2609	Ferry Loading	481	1670
+1611	2610	Dog & Gopher	1713	4045
+1612	2611	Gas Station Numbers	394	1279
+1613	2612	Mine Sweeper	2450	6242
+1614	2613	Choose and divide	1273	3888
+1615	2614	Old Wine Into New Bottles	508	1665
+1616	2615	Suffidromes	314	1451
+1617	2616	Origami	137	275
+1618	2617	Taxes	37	331
+1619	2618	Cube in Labyrinth	151	554
+1620	2619	Delta-wave	716	1493
+1621	2620	Minimal coverage	682	2234
+1622	2621	Parallelepiped	63	225
+1623	2622	Convex hull	94	422
+1624	2623	Sequence Median	4239	15119
+1625	2624	4th Point	1649	4688
+1626	2625	Coupons	243	410
+1627	2626	Chess	1080	2328
+1628	2627	Gopher and hawks	764	1970
+1629	2628	Table Legs	307	787
+1630	2629	Common permutation	1643	5395
+1631	2630	Security Panel	305	865
+1632	2631	Roads in the North	1012	2036
+1633	2632	Crashing Robots	3204	7295
+1634	2633	Funny Games	248	1117
+1635	2634	Nullary Computer	80	203
+1636	2635	The Embarrassed Cryptographer	3147	11753
+1637	2636	Electrical Outlets	6640	8828
+1638	2637	WorstWeather Ever	402	1911
+1639	2638	Kingdom	126	433
+1640	2639	Necklace Decomposition	351	905
+1641	2640	Playground	1140	2978
+1642	2641	Billiard	822	1319
+1643	2642	The Brick Stops Here	386	1283
+1644	2643	Election	1779	3721
+1645	2644	Maze	171	885
+1646	2645	Boastin' Red Socks	516	2104
+1647	2646	The Trip	953	3068
+1648	2647	Doublets	327	847
+1649	2648	CDVII	117	372
+1650	2649	Factovisors	998	4049
+1651	2650	Spaghetti	52	148
+1652	2651	So you want to be a 2<sup>n</sup>-aire?	282	412
+1653	2652	Ferry Loading III	294	910
+1654	2653	Pick-up sticks	3325	9012
+1655	2654	Rock-Paper-Scissors Tournament	853	2267
+1656	2655	Structural Equivalence	65	154
+1657	2656	Unhappy Jinjin	7576	10368
+1658	2657	Comfort	849	2478
+1659	2658	Song	437	1597
+1660	2659	Bomb Game	595	1390
+1661	2660	War on Weather	548	953
+1662	2661	Factstone Benchmark	1787	3463
+1663	2662	A Walk Through the Forest	873	2365
+1664	2663	Tri Tiling	3935	7408
+1665	2664	Prerequisites?	2252	3596
+1666	2665	Trees	6359	9654
+1667	2666	Back to Mother Ship	793	2404
+1668	2667	Barber's problem	151	657
+1669	2668	Defending Castle	1223	5045
+1670	2669	Explore the Pirate's Cave	213	1099
+1671	2670	The Sorcerer's Stone	276	1722
+1672	2671	Jimmy's Bad Day	455	1387
+1673	2672	Hotkeys	285	1365
+1674	2673	Kicc Wants to Move a Mountain!	1321	5081
+1675	2674	Linear world	564	2448
+1676	2675	Songs	765	1958
+1677	2676	Sudoku	6433	12952
+1678	2677	Tour	1487	3355
+1679	2678	Mothy	202	820
+1680	2679	Adventurous Driving	395	1405
+1681	2680	Computer Transformation	1701	4452
+1682	2681	Anagrammatic Distance	2346	4242
+1683	2682	Tomato Automata	67	233
+1684	2683	Ohgas' Fortune	742	1204
+1685	2684	Polygonal Line Search	1503	2378
+1686	2685	Numeral System	1640	2131
+1687	2686	Traveling by Stagecoach	561	1794
+1688	2687	Earth Observation with a Mobile Robot Team	83	284
+1689	2688	Cleaning Robot	1455	3468
+1690	2689	Prime Distance	3061	11421
+1691	2690	Yahtzee	185	505
+1692	2691	Request for Proposal	263	567
+1693	2692	Australian Voting	408	1514
+1694	2693	Chocolate Chip Cookies	455	1772
+1695	2694	A Simple Poker Game	683	1414
+1696	2695	Rick the Persistent Gnu	304	738
+1697	2696	A Mysterious Function	2693	3892
+1698	2697	A Board Game	303	452
+1699	2698	Servicing DVD Requests	483	1598
+1700	2699	The Maximum Number of Strong Kings	710	15131701	2700	Space Travel	99	592
+1702	2701	Lapux the Floating Island	145	428
+1703	2702	Can a Complicated Program Go Wrong?	198	729
+1704	2703	Maximum Area Covered by Rectangles	438	976
+1705	2704	Pascal's Travels	2306	5140
+1706	2705	Overflowing Bookshelf	596	1079
+1707	2706	Connect	347	1066
+1708	2707	Copier Reduction	4327	8209
+1709	2708	Time to Graduate	201	473
+1710	2709	Painter	1826	2898
+1711	2710	Consecutive Digits	1029	1682
+1712	2711	Leapin' Lizards	596	1502
+1713	2712	Netiquette	486	1489
+1714	2713	Tire Dimensions	341	842
+1715	2714	Random Walk	382	2019
+1716	2715	Paint Mix	520	1582
+1717	2716	Open and Close	94	468
+1718	2717	Hour Glass	84	342
+1719	2718	Smallest Difference	1021	3654
+1720	2719	Faulty Odometer	5519	8889
+1721	2720	Last Digits	404	1974
+1722	2721	Suit Distribution	407	634
+1723	2722	Angle and Squares	957	2323
+1724	2723	Get Luffy Out	2762	7257
+1725	2724	Purifying Machine	1136	4036
+1726	2725	Finding Treasure	307	1491
+1727	2726	Holiday Hotel	3143	8023
+1728	2727	Special Judge	149	761
+1729	2728	Desert King	5464	19619
+1730	2729	Robocode	168	924
+1731	2730	F1 Circuit Design	61	431
+1732	2731	ACM(ACronymMaker)	115	881
+1733	2732	Countdown	422	1226
+1734	2733	The Game of Efil	236	606
+1735	2734	Queens, Knights and Pawns	978	1967
+1736	2735	Reliable Nets	356	914
+1737	2736	Square Count	210	666
+1738	2737	Swamp Things	468	1402
+1739	2738	Two Ends	1073	2262
+1740	2739	Sum of Consecutive Prime Numbers	9966	18134
+1741	2740	Book Replacement	380	821
+1742	2741	Colored Cubes	332	612
+1743	2742	Organize Your Train	146	519
+1744	2743	Mobile Computing	193	591
+1745	2744	Atomic Car Race	569	1162
+1746	2745	Network Mess	232	553
+1747	2746	Bingo	179	438
+1748	2747	Shy Polygons	84	310
+1749	2748	Logs Stacking	1316	4196
+1750	2749	Building roads	2029	6022
+1751	2750	Potted Flower	1534	4096
+1752	2751	Saving Endeavour	630	1104
+1753	2752	Seek the Name, Seek the Fame	5384	11084
+1754	2753	Similarity of necklaces	45	299
+1755	2754	Similarity of necklaces 2	177	624
+1756	2755	Dominoes	50	186
+1757	2756	Autumn is a Genius	1827	8000
+1758	2757	Beautiful Numbers	135	627
+1759	2758	Checking the Text	554	2543
+1760	2759	Distributing tasks	272	1216
+1761	2760	End of Windless Days	248	1341
+1762	2761	Feed the dogs	4632	15003
+1763	2762	Going from u to v or from v to u?	3573	13754
+1764	2763	Housewife Wind	1364	5440
+1765	2764	Unequalled Consumption	116	432
+1766	2765	Declaration of Content	139	457
+1767	2766	Laserbox	746	1315
+1768	2767	Bowlstack	334	826
+1769	2768	Pesky Heroes	92	307
+1770	2769	Reduced ID Numbers	3467	8657
+1771	2770	Tantrix	51	79
+1772	2771	Guardian of Decency	1973	4711
+1773	2772	Up the Stairs	832	1827
+1774	2773	Happy 2006	3051	9086
+1775	2774	Long Long Message	8047	19477
+1776	2775	The Number of the Same BST	354	840
+1777	2776	Cheat at Math	37	181
+1778	2777	Count Color	10106	33503
+1779	2778	DNA Sequence	4195	10966
+1780	2779	Atom Bombs!? God!	65	381
+1781	2780	Linearity	1774	7647
+1782	2781	The mysterious X network	836	1989
+1783	2782	Bin Packing	2440	5394
+1784	2783	On Storing Clothes	133	469
+1785	2784	Buy or Build	445	1038
+1786	2785	4 Values whose Sum is 0	4166	14578
+1787	2786	Keep the Customer Satisfied	426	1079
+1788	2787	UFO Cubes in Roswell	37	217
+1789	2788	Black Box	82	152
+1790	2789	Pixel Shuffle	170	402
+1791	2790	Consecutive ones	365	564
+1792	2791	Area 51	242	1111
+1793	2792	Brackets Removal	207	586
+1794	2793	Cactus	369	1273
+1795	2794	Double Patience	317	584
+1796	2795	Exploring Pyramids	906	1982
+1797	2796	Feel Good	2423	8939
+1798	2797	Guards	89	220
+1799	2798	Hardwood Cutting	122	312
+1800	2799	IP Networks	764	20301801	2800	Joseph's Problem	1843	7124
+1802	2801	Knockdown	65	285
+1803	2802	Plinko	255	536
+1804	2803	Defining Moment	723	1586
+1805	2804	Jetpack Sniper 3000 Fragfest Extreme	86	166
+1806	2805	Pegs	310	806
+1807	2806	Janken Tactics	41	177
+1808	2807	Bingo!	90	191
+1809	2808	Artificial Strife	128	328
+1810	2809	It's My Derivative	322	920
+1811	2810	Take Your Vitamins	856	2937
+1812	2811	Packing Dominoes	49	161
+1813	2812	Extrusion	875	1484
+1814	2813	Pasting Strings	123	348
+1815	2814	Mobiles	52	225
+1816	2815	Context-Free Clock	391	1042
+1817	2816	Right-Hand Rule	137	473
+1818	2817	WordStack	1108	3121
+1819	2818	Making Change	811	1515
+1820	2819	TN's Kingdom I - Establishment	332	1867
+1821	2820	TN's Kingdom II - Construction	102	776
+1822	2821	TN's Kingdom III - Assassination	46	303
+1823	2822	TN's Kingdom IV - Collapse	144	598
+1824	2823	Sliding Window	10638	35949
+1825	2824	Bohemian Rhapsody	40	352
+1826	2825	Perfect Permutation	145	322
+1827	2826	An Easy Problem?!	1343	9123
+1828	2827	Auto-Calculation Machine	548	1685
+1829	2828	Buy Tickets	5816	11824
+1830	2829	How Many Free Dimensions?	40	119
+1831	2830	Max Sequence II	137	972
+1832	2831	Can We Build This One?	407	1079
+1833	2832	How Many Pairs?	654	1802
+1834	2833	The Average	2839	9078
+1835	2834	Where Are You?	194	702
+1836	2835	Sunzi's Problem	84	573
+1837	2836	Rectangular Covering	409	1565
+1838	2837	Silver Matrix	771	1226
+1839	2838	Graph Connectivity	866	3309
+1840	2839	Convex Hull and Triangle	30	218
+1841	2840	Big Clock	6035	9524
+1842	2841	Navigation Game	86	369
+1843	2842	N-dimension Matching	85	154
+1844	2843	Cutting Cake	203	754
+1845	2844	Sum and Product	131	1075
+1846	2845	01000001	3210	10015
+1847	2846	The Bank of Kalii	598	1350
+1848	2847	The Cubic End	609	1254
+1849	2848	Kindergarten Graduation	254	625
+1850	2849	brainf*ck	592	1514
+1851	2850	Stacking Cylinders	577	1043
+1852	2851	No Fold'em Hold'em	32	92
+1853	2852	Model Rocket Height	88	159
+1854	2853	Sequence Sum Possibilities	3704	5626
+1855	2854	Educational Journey	236	485
+1856	2855	Go	117	248
+1857	2856	Medals	244	813
+1858	2857	Flipping Colors	347	663
+1859	2858	Crabbles	351	1464
+1860	2859	A rectangle	530	2154
+1861	2860	Block game with the Little Prince	1226	1821
+1862	2861	Cycle with 6 vertices	165	418
+1863	2862	Tornado!	414	1117
+1864	2863	Mission Impossible	28	138
+1865	2864	Pascal Library	2427	5064
+1866	2865	ICPC Strikes Again	108	495
+1867	2866	Optical Fiber	149	321
+1868	2867	Where Are My Genes	590	1336
+1869	2868	Computer DJ	250	1001
+1870	2869	P-Networks	120	236
+1871	2870	Light Up	313	802
+1872	2871	A Simple Question of Chemistry	4290	6458
+1873	2872	Spelling Be	950	2964
+1874	2873	Apply a Cold Compress	134	325
+1875	2874	A Baron Landscape	113	303
+1876	2875	In Defence of a Garden	205	565
+1877	2876	Cantoring Along	1991	3646
+1878	2877	Chambers Ceramic Conundrum	97	217
+1879	2878	IOI Photos	45	196
+1880	2879	Vice City	46	236
+1881	2880	Fixing Codes	167	905
+1882	2881	Wiping Words	176	446
+1883	2882	Food Cubes	674	2708
+1884	2883	Points	290	887
+1885	2884	ACM-Telecom	16	135
+1886	2885	Prince of Persia	40	153
+1887	2886	Who Gets the Most Candies?	2764	9075
+1888	2887	Big String	1318	5617
+1889	2888	Magic Bracelet	1370	4144
+1890	2889	Unique Solution	239	1010
+1891	2890	Matrix Multiplication	501	1603
+1892	2891	Strange Way to Express Integers	2823	9340
+1893	2892	Tunnel Warfare	2772	6754
+1894	2893	M × N Puzzle	940	3340
+1895	2894	Ancient Keyboard	1681	3027
+1896	2895	Best SMS to Type	1621	3838
+1897	2896	Changing Phone Numbers	174	840
+1898	2897	Dramatic Multiplications	1012	2414
+1899	2898	Entertainment	460	2604
+1900	2899	Fortune at El Dorado	297	11581901	2900	Griddy Hobby	190	522
+1902	2901	Hotel	278	855
+1903	2902	Intercepting Missiles	76	169
+1904	2903	Joy of Mobile Routing	55	202
+1905	2904	The Mailboxes Manufacturers Problem	698	969
+1906	2905	Parallel Computer Simulator	55	215
+1907	2906	Moving Pianos	363	990
+1908	2907	Collecting Beepers	1283	2379
+1909	2908	Quantum	868	2823
+1910	2909	Goldbach's Conjecture	5822	9899
+1911	2910	Downpayment	37	127
+1912	2911	Simplified &lambda;-evaluations	51	106
+1913	2912	Rochambeau	628	1819
+1914	2913	Fly Monkey	130	993
+1915	2914	Minimum Cut	3065	7315
+1916	2915	Zuma	118	2011
+1917	2916	The Wolves and the Sheep Plus	38	182
+1918	2917	Diophantus of Alexandria	1407	4042
+1919	2918	Tudoku	1096	1966
+1920	2919	Traveling Queen Problem	115	407
+1921	2920	Mine Map	483	1007
+1922	2921	Knights of the Round Table	365	1415
+1923	2922	Honeymoon Hike	926	2991
+1924	2923	Relocation	738	1801
+1925	2924	Gau&szlig; in Elementary School	4061	9041
+1926	2925	Kick-Tipp	183	475
+1927	2926	Requirements	1316	3902
+1928	2927	Constructing Roads	72	527
+1929	2928	A City of Skyscrapers	417	1614
+1930	2929	The Traveling Salesman	35	181
+1931	2930	Dialing Dice	46	416
+1932	2931	Procrastination	127	504
+1933	2932	Coneology	437	2593
+1934	2933	Explaining the Stock Market	176	708
+1935	2934	Automatic Correction of Misspellings	681	2195
+1936	2935	Basic Wall Maze	1239	2724
+1937	2936	Construct the Wall Maze	53	611
+1938	2937	Dihedral Groups	430	1336
+1939	2938	Economic Phone Calls	252	732
+1940	2939	Flavius Josephus Reloaded	708	1843
+1941	2940	Wine Trading in Gergovia	1377	3004
+1942	2941	Homogeneous Squares	2197	4209
+1943	2942	Knights of the Round Table	2936	9114
+1944	2943	The Cow Doctor	498	1466
+1945	2944	Wild West	317	1081
+1946	2945	Find the Clones	2484	6686
+1947	2946	The Warehouse	274	1236
+1948	2947	Widget Factory	1452	4324
+1949	2948	Martian Mining	1425	2339
+1950	2949	Word Rings	1367	6364
+1951	2950	Nuclear Plants	19	438
+1952	2951	Cake Cutting	770	1415
+1953	2952	Election	434	923
+1954	2953	Nash Equilibrium	273	478
+1955	2954	Triangle	2071	4719
+1956	2955	Brackets	1346	2603
+1957	2956	Repeatless Numbers	738	1753
+1958	2957	Planet Hunting	238	533
+1959	2958	Pizza delivery	558	1313
+1960	2959	Ball bearings	1710	2959
+1961	2960	S-Nim	1619	3054
+1962	2961	Sylvester construction	557	1202
+1963	2962	Who owns the Amiga?	30	84
+1964	2963	Lazy Evaluation	11	57
+1965	2964	Tourist	575	1387
+1966	2965	The Pilots Brothers' refrigerator	6581	17395
+1967	2966	A safe way	344	1754
+1968	2967	Triangles	1126	7439
+1969	2968	Necklace	85	550
+1970	2969	Divisibility by 15	806	3113
+1971	2970	The lazy programmer	274	1120
+1972	2971	"Switchback"	59	249
+1973	2972	Laser-Ball	48	125
+1974	2973	Scrabble	1025	1777
+1975	2974	Convex area	220	472
+1976	2975	Nim	2073	4464
+1977	2976	Dropping tests	1938	5612
+1978	2977	Box walking	536	2032
+1979	2978	Colored stones	781	1620
+1980	2979	RSI	181	364
+1981	2980	Do it!	324	1064
+1982	2981	Deal of Fortune	10	145
+1983	2982	Time Travel	611	4030
+1984	2983	Is the Information Reliable?	3323	10657
+1985	2984	A New Joseph Problem	907	3829
+1986	2985	The <i>k</i>-th Largest Group	2264	7028
+1987	2986	A Triangle and a Circle	630	2848
+1988	2987	Firing	2303	7577
+1989	2988	Function Approximation	121	446
+1990	2989	All Friends	552	2009
+1991	2990	Board Game	82	248
+1992	2991	Crane	792	2970
+1993	2992	Divisors	2929	9956
+1994	2993	Emag eht htiw Em Pleh	1717	2556
+1995	2994	Failing Roads	204	468
+1996	2995	Go Endgame	74	241
+1997	2996	Help Me with the Game	2026	3135
+1998	2997	IVXLCDM	212	809
+1999	2998	Hardware	340	934
+2000	2999	Matrix	19	1222001	3000	Frogger	303	919
+2002	3001	Gallup	238	459
+2003	3002	Jackpot	1392	4172
+2004	3003	Spiderman’s workout	664	1747
+2005	3004	Subway planning	350	1315
+2006	3005	Exploding CPU	214	491
+2007	3006	Dirichlet's Theorem on Arithmetic Progressions	7569	15102
+2008	3007	Organize Your Train part II	2027	7029
+2009	3008	Hexerpents of Hexwamp	100	308
+2010	3009	Curling 2.0	4362	10362
+2011	3010	The Genome Database of All Space Life	241	798
+2012	3011	Secrets in Shadows	79	367
+2013	3012	A Number from Yanghui Triangle	962	2314
+2014	3013	Big Christmas Tree	4336	20142
+2015	3014	Cake Pieces and Plates	2029	6484
+2016	3015	Expected Difference	334	1317
+2017	3016	<i>K</i>-Monotonic	325	973
+2018	3017	Cut the Sequence	2547	8696
+2019	3018	Giftbox	1056	3767
+2020	3019	Image Rotation	37	104
+2021	3020	Antenna Placement	3050	6170
+2022	3021	e-Coins	306	616
+2023	3022	The Uxuhul Voting System	133	326
+2024	3023	Submarines	163	364
+2025	3024	The Gossiping System	122	249
+2026	3025	Rings	394	1096
+2027	3026	Borg Maze	2578	7683
+2028	3027	Base equality	519	828
+2029	3028	Shoot-out	279	875
+2030	3029	Tour Guide	320	823
+2031	3030	Nasty Hacks	8251	11922
+2032	3031	Jezzball	38	80
+2033	3032	Card Trick	2601	3644
+2034	3033	Traveling Salesman	162	386
+2035	3034	Whac-a-Mole	947	3140
+2036	3035	Random Walking	266	810
+2037	3036	Honeycomb Walk	1452	2106
+2038	3037	Skiing	1028	3767
+2039	3038	Flying Right	539	1520
+2040	3039	Close Encounter	1174	3243
+2041	3040	Allowance	499	1203
+2042	3041	Asteroids	7548	13887
+2043	3042	Grazing on the Run	675	1720
+2044	3043	Walk the Talk	243	561
+2045	3044	City Skyline	1147	2355
+2046	3045	Cow Acrobats	930	2337
+2047	3046	Ant Counting	990	2397
+2048	3047	Bovine Birthday	873	1887
+2049	3048	Max Factor	2310	5846
+2050	3049	Securing the Barn	1251	1937
+2051	3050	Hopscotch	1275	1785
+2052	3051	Satellite Photographs	2495	5285
+2053	3052	Geodes	47	122
+2054	3053	Bowling	235	814
+2055	3054	High Spies	33	97
+2056	3055	Digital Friends	507	1084
+2057	3056	The Bavarian Beer Party	350	976
+2058	3057	Evacuation	316	1247
+2059	3058	Decompression	285	576
+2060	3059	Rummikub	72	179
+2061	3060	Make it Manhattan	458	1072
+2062	3061	Subsequence	3085	8018
+2063	3062	Celebrity jeopardy	8173	14503
+2064	3063	Sherlock Holmes	227	720
+2065	3064	Payment System	65	137
+2066	3065	Stargates	534	2374
+2067	3066	Maximum	481	795
+2068	3067	Japan	5223	19322
+2069	3068	"Shortest" pair of paths	373	966
+2070	3069	Saruman's Army	1730	3417
+2071	3070	Fibonacci	6091	8564
+2072	3071	Football	1346	2648
+2073	3072	Robot	554	1625
+2074	3073	Spam	553	959
+2075	3074	Sudoku	2785	7864
+2076	3075	Tic-Tac-Toe	752	1751
+2077	3076	Sudoku	2037	4174
+2078	3077	Rounders	4849	7486
+2079	3078	Q	1165	1657
+2080	3079	Enigmatologically Cruciverbalistic	121	631
+2081	3080	Blue Jeans	4839	11286
+2082	3081	Core Wars	62	156
+2083	3082	'Roid Rage	281	919
+2084	3083	Children of the Candy Corn	3914	8978
+2085	3084	Panic Room	942	1834
+2086	3085	Quick Change	4035	5567
+2087	3086	Triangular Sums	4451	6262
+2088	3087	Shuffle'm Up	2456	5207
+2089	3088	Push Botton Lock	809	1282
+2090	3089	Sign Message Formatting	20	73
+2091	3090	Visible Lattice Points	3047	5236
+2092	3091	Triangular N-Queens Problem	340	780
+2093	3092	Non-divisible 2-3 Power Sums	438	886
+2094	3093	Margaritas on the River Walk	916	2454
+2095	3094	Quicksum	9256	13294
+2096	3095	Linear Pachinko	1030	1399
+2097	3096	Surprising Strings	3721	5676
+2098	3097	Falling Ice	85	251
+2099	3098	Frugal Search	467	976
+2100	3099	Go Go Gorelians	427	7022101	3100	Root of the Problem	6148	11479
+2102	3101	Astronomy	1018	4816
+2103	3102	Bee Garden	277	1130
+2104	3103	Cutting a Block	685	1375
+2105	3104	Drying	2085	8222
+2106	3105	Expectation	510	1022
+2107	3106	Flip and Turn	342	997
+2108	3107	Godfather	1523	4508
+2109	3108	Horn Clauses	70	377
+2110	3109	Inner Vertices	402	1560
+2111	3110	Jenny's First Exam	189	706
+2112	3111	K Best	1435	5294
+2113	3112	Digital Biochemist Circuit	348	829
+2114	3113	The Halting Problem	30	155
+2115	3114	Countries in War	683	2188
+2116	3115	Energy &times; Delay	125	277
+2117	3116	MegaCheckers	39	131
+2118	3117	World Cup	4280	8547
+2119	3118	Critical Route	95	258
+2120	3119	Friends or Enemies?	160	394
+2121	3120	Sudoku	138	299
+2122	3121	The SetStack Computer	202	951
+2123	3122	Pie	3405	9436
+2124	3123	Ticket to Ride	262	554
+2125	3124	The Bookcase	572	1923
+2126	3125	Printer Queue	1942	3607
+2127	3126	Prime Path	6008	10518
+2128	3127	Lineland's Airport	61	167
+2129	3128	Leonardo's Notebook	790	1795
+2130	3129	How I Wonder What You Are!	758	1056
+2131	3130	How I Mathematician Wonder What You Are!	1629	3044
+2132	3131	Cubic Eight-Puzzle	463	1389
+2133	3132	Sum of Different Primes	1922	3103
+2134	3133	Manhattan Wiring	864	1475
+2135	3134	Power Calculus	875	1648
+2136	3135	Polygons on the Grid	229	663
+2137	3136	The Best Name for Your Baby	60	211
+2138	3137	Enjoyable Commutation	256	936
+2139	3138	ACM Team Selection	923	1874
+2140	3139	Balancing the Scale	617	1560
+2141	3140	Contestants Division	2235	7853
+2142	3141	Distant Galaxy	577	1817
+2143	3142	Escape Plan	57	606
+2144	3143	False Perceptions	21	197
+2145	3144	Guarding Zion	27	223
+2146	3145	Harmony Forever	1256	4989
+2147	3146	Interesting Yang Hui Triangle	792	1656
+2148	3147	John's Canonical Difference Bound Matrices	108	738
+2149	3148	ASCII Art	208	648
+2150	3149	Billing Tables	87	379
+2151	3150	Cellular Automaton	1215	3013
+2152	3151	Driving Directions	68	228
+2153	3152	Exchange	72	317
+2154	3153	Fool's Game	22	110
+2155	3154	Graveyard	647	1263
+2156	3155	Hard Life	1790	6114
+2157	3156	Interconnect	355	1027
+2158	3157	Java vs C++	2040	7124
+2159	3158	Kickdown	706	1567
+2160	3159	Candies	5923	22138
+2161	3160	Father Christmas flymouse	817	2449
+2162	3161	Numerical Integration	4	333
+2163	3162	Walking Race	626	2595
+2164	3163	King of Fighters	249	1327
+2165	3164	Command Network	3470	11942
+2166	3165	Traveling Trio	81	418
+2167	3166	Jumping Frog	126	418
+2168	3167	Cow Patterns	1127	3051
+2169	3168	Barn Expansion	506	1944
+2170	3169	Layout	3077	6368
+2171	3170	Knights of Ni	771	1701
+2172	3171	Cleaning Shifts	863	2423
+2173	3172	Scales	613	2401
+2174	3173	Parkside's Triangle	4485	7370
+2175	3174	Alignment of the Planets	828	1671
+2176	3175	Finding Bovine Roots	793	4034
+2177	3176	Cow Bowling	8634	13093
+2178	3177	Redundant Paths	3693	8515
+2179	3178	Roping the Field	229	758
+2180	3179	Corral the Cows	422	949
+2181	3180	The Cow Prom	707	1124
+2182	3181	Dollar Dayz	1394	3514
+2183	3182	The Grove	348	733
+2184	3183	Stump Removal	1683	3177
+2185	3184	Finicky Grazers	437	1572
+2186	3185	The Water Bowls	1621	4124
+2187	3186	Treats for the Cows	2031	3985
+2188	3187	Backward Digit Sums	2242	3932
+2189	3188	Cellphones	213	608
+2190	3189	Steady Cow Assignment	1800	5206
+2191	3190	Stall Reservations	878	2457
+2192	3191	The Moronic Cowmpouter	1618	3067
+2193	3192	DNA Assembly	820	1904
+2194	3193	Cow Phrasebook	941	2774
+2195	3194	Equidivisions	1569	2682
+2196	3195	Generalized Matrioshkas	518	1771
+2197	3196	Babylonian Roulette	308	508
+2198	3197	Continuous Fractions	363	957
+2199	3198	Polygon Encoder	115	638
+2200	3199	Uncle Jack	1758	41742201	3200	Babel Towers	308	1042
+2202	3201	Little Quilt	241	732
+2203	3202	A Very Simple Compiler	2	45
+2204	3203	Incremental Python Parsing	4	72
+2205	3204	Ikki's Story I - Road Reconstruction	1897	6630
+2206	3205	Ikki's Story II - War with TN	270	889
+2207	3206	Ikki's Story III - Rescue frkstyc!	120	623
+2208	3207	Ikki's Story IV - Panda's Trick	2816	7626
+2209	3208	Apocalypse Someday	654	1428
+2210	3209	From Pythagoras to …	343	2659
+2211	3210	Coins	4356	6649
+2212	3211	Washing Clothes	2656	8511
+2213	3212	Rescue Alice	369	1526
+2214	3213	PM<sup>3</sup>	1026	2975
+2215	3214	Heap	595	2730
+2216	3215	Median of Lines	274	1344
+2217	3216	Repairing Company	1621	6044
+2218	3217	Eugenics	375	1077
+2219	3218	Alignments	228	1421
+2220	3219	Binomial Coefficients	2729	6632
+2221	3220	Context-Free Languages	242	875
+2222	3221	Diamond Puzzle	756	1374
+2223	3222	Edge Pairing	386	1020
+2224	3223	Football Game	106	739
+2225	3224	Go for Lab Cup!	4502	8805
+2226	3225	Help with Intervals	2282	9602
+2227	3226	String's Puzzle	935	2320
+2228	3227	Mountains	419	1560
+2229	3228	Gold Transportation	969	2732
+2230	3229	The Best Travel Design	355	1393
+2231	3230	Travel	1711	4070
+2232	3231	FlashGet	482	2902
+2233	3232	Accelerator	1158	4688
+2234	3233	Matrix Power Series	6047	14047
+2235	3234	The Kylin Den	16	94
+2236	3235	Super Knight	41	148
+2237	3236	Michelle's Evaluation	107	1491
+2238	3237	Tree	951	3389
+2239	3238	A Coin Game	82	319
+2240	3239	Solution to the <i>n</i> Queens Puzzle	1245	3356
+2241	3240	Solution to the <i>n</i><sup>2</sup> ? 1 Puzzle	63	354
+2242	3241	Object Clustering	305	1447
+2243	3242	3-dimensional Musical Water-fence	50	149
+2244	3243	Clever Y	1504	6219
+2245	3244	Difference between Triplets	745	2379
+2246	3245	Sequence Partitioning	307	1131
+2247	3246	Game	254	1651
+2248	3247	Robots	22	146
+2249	3248	Soldier	93	430
+2250	3249	Test for Job	1954	8763
+2251	3250	Bad Hair Day	4252	12715
+2252	3251	Big Square	625	2570
+2253	3252	Round Numbers	2879	8236
+2254	3253	Fence Repair	7545	23704
+2255	3254	Corn Fields	3396	6395
+2256	3255	Roadblocks	2459	6607
+2257	3256	Cow Picnic	2025	4937
+2258	3257	Cow Roller Coaster	1031	2637
+2259	3258	River Hopscotch	2654	6135
+2260	3259	Wormholes	10141	28132
+2261	3260	The Fewest Coins	1347	4529
+2262	3261	Milk Patterns	4244	9413
+2263	3262	Protecting the Flowers	1518	3685
+2264	3263	Tallest Cow	863	1890
+2265	3264	Balanced Lineup	15045	31944
+2266	3265	Problem Solving	639	1559
+2267	3266	Cow School	221	751
+2268	3267	The Cow Lexicon	3637	7750
+2269	3268	Silver Cow Party	5180	11571
+2270	3269	Building A New Barn	539	1689
+2271	3270	Cow Sorting	2193	5760
+2272	3271	Lilypad Pond	345	1300
+2273	3272	Cow Traffic	990	3610
+2274	3273	Monthly Expense	5291	13111
+2275	3274	Gold Balanced Lineup	3468	11799
+2276	3275	Ranking the Cows	1137	2427
+2277	3276	Face The Right Way	1064	2254
+2278	3277	City Horizon	4282	15791
+2279	3278	Catch That Cow	13375	43013
+2280	3279	Fliptile	1192	3092
+2281	3280	Cheapest Palindrome	2594	5332
+2282	3281	Dining	3928	8448
+2283	3282	Ferry Loading IV	796	1964
+2284	3283	Card Hands	695	2262
+2285	3284	Eventually periodic sequence	182	655
+2286	3285	Point of view in Flatland	204	794
+2287	3286	How many 0's?	1525	2874
+2288	3287	The Trip, 2007	330	921
+2289	3288	Mall Mania	265	825
+2290	3289	Moonshine	103	498
+2291	3290	WFF 'N PROOF	413	829
+2292	3291	Cousins	247	684
+2293	3292	Semi-prime H-numbers	3078	7128
+2294	3293	Rectilinear polygon	182	1908
+2295	3294	Life Forms	2435	8867
+2296	3295	Tautology	3432	8973
+2297	3296	Rinse	147	487
+2298	3297	Open Source	715	1712
+2299	3298	Antimonotonicity	1231	2861
+2300	3299	Humidex	5707	156332301	3300	Tour de France	1979	4140
+2302	3301	Texas Trip	1146	3821
+2303	3302	Subsequence	4711	8129
+2304	3303	Halls	489	1728
+2305	3304	Segments	2780	9072
+2306	3305	Surveillance	92	267
+2307	3306	Busy Airport	152	549
+2308	3307	Smart Sister	911	2230
+2309	3308	Paratroopers	2062	6842
+2310	3309	Unlucky Luke!	174	639
+2311	3310	Caterpillar	993	2089
+2312	3311	Hie with the Pie	1856	3557
+2313	3312	Mahershalalhashbaz, Nebuchadnezzar, and Billy BobBenjamin Go to the Regionals	932	2274
+2314	3313	The Mastermind Master's Mind	98	229
+2315	3314	Plaque Pack	433	903
+2316	3315	Roofing It	118	335
+2317	3316	Snakes on a Plane	487	1291
+2318	3317	Stake Your Claim	458	1234
+2319	3318	Matrix Multiplication	3433	15898
+2320	3319	Dragon Slayer Qualification Exam	158	819
+2321	3320	Jessica's Reading Problem	2030	6561
+2322	3321	Apple Tree	5380	17719
+2323	3322	Bloxorz I	1665	5002
+2324	3323	Bloxorz II	155	767
+2325	3324	Lucas-Lehmer Test	168	687
+2326	3325	ICPC Score Totalizer Software	4646	6630
+2327	3326	Analyzing Login/Logout Records	702	1449
+2328	3327	Cut the Cake	598	1560
+2329	3328	Cliff Climbing	679	1849
+2330	3329	Twirl Around	54	296
+2331	3330	Dr. Podboq or: How We Became Asymmetric	103	320
+2332	3331	The Idiot of the Year Contest!	1910	3631
+2333	3332	Parsing Real Numbers	900	2360
+2334	3333	Co-workers from Hell	375	1239
+2335	3334	Connected Gheeves	343	933
+2336	3335	Rotating Scoreboard	1914	4821
+2337	3336	ACM Underground	87	256
+2338	3337	Expression Evaluator	592	1909
+2339	3338	Rectangle Cutting	836	1262
+2340	3339	Team Arrangement	633	2467
+2341	3340	Barbara Bennett's Wild Numbers	1113	3097
+2342	3341	Calculating Taxi Fare	153	438
+2343	3342	Party at Hali-Bula	1813	5106
+2344	3343	Against Mammoths	536	1646
+2345	3344	Chessboard Dance	493	1325
+2346	3345	Bribing FIPA	1137	3667
+2347	3346	Treasure of the Chimp Island	324	723
+2348	3347	Kadj Squares	949	2432
+2349	3348	Cows	2838	6225
+2350	3349	SnowflakeSnowSnowflakes	7707	29287
+2351	3350	Bowling for Numbers++	171	693
+2352	3351	Gerrymandering	144	527
+2353	3352	Road Construction	4081	8126
+2354	3353	Nuevo-Romano	51	529
+2355	3354	Connect the Dots	23	181
+2356	3355	Boundary Points	391	2197
+2357	3356	AGTC	3614	9410
+2358	3357	Oreon	536	2027
+2359	3358	Period of an Infinite Binary Expansion	763	2871
+2360	3359	Wordfish	508	1010
+2361	3360	Take a Walk	315	1425
+2362	3361	Gaussian Prime Factors	416	1291
+2363	3362	20-Four	12	89
+2364	3363	Annoying painting tool	1102	1651
+2365	3364	Black and white painting	1759	2572
+2366	3365	Cylinder	724	1707
+2367	3366	Deli Deli	2159	3797
+2368	3367	Expressions	724	2173
+2369	3368	Frequent values	4674	12764
+2370	3369	Grocery store	590	1485
+2371	3370	Halloween treats	2324	6271
+2372	3371	Flesch Reading Ease	483	1682
+2373	3372	Candy Distribution	3011	5459
+2374	3373	Changing Digits	918	2883
+2375	3374	Cake Share	821	3127
+2376	3375	Network Connection	727	3239
+2377	3376	Finding Palindromes	471	2625
+2378	3377	Ferry Lanes	947	4304
+2379	3378	Crazy Thairs	1626	6564
+2380	3379	Alphabet	92	324
+2381	3380	Bridges	531	1845
+2382	3381	Confectionery	79	243
+2383	3382	Deciphering	74	371
+2384	3383	Equation	11	62
+2385	3384	Feng Shui	1268	4160
+2386	3385	Genealogy	904	3104
+2387	3386	Halloween Holidays	1523	3664
+2388	3387	Ideal Frame	45	135
+2389	3388	Japanese Puzzle	590	2040
+2390	3389	Kennings	92	605
+2391	3390	Print Words in Lines	858	1613
+2392	3391	The Bug Sensor Problem	158	1411
+2393	3392	Pitcher Rotation	134	524
+2394	3393	Lucky and Good Months by Gregorian Calendar	478	1471
+2395	3394	Route Planning	350	1051
+2396	3395	Shift Cipher	146	947
+2397	3396	A Scheduling Problem	83	248
+2398	3397	Click the Lines	74	179
+2399	3398	Perfect Service	627	1290
+2400	3399	Product	662	27522401	3400	Dropping the stones	606	1710
+2402	3401	String reduction	440	1328
+2403	3402	Add a queen	243	858
+2404	3403	"Bloody Mary"	18	670
+2405	3404	Bridge over a rough river	1626	3964
+2406	3405	Convex hull	195	843
+2407	3406	Last digit	903	2998
+2408	3407	Brookebond s'en va en guerre...	797	1646
+2409	3408	The Domino Principle	470	1804
+2410	3409	Broken line	291	1714
+2411	3410	Split convex polygon	182	609
+2412	3411	Paid Roads	1732	4986
+2413	3412	Ray	428	2034
+2414	3413	RPG	478	1426
+2415	3414	Pots	3820	9054
+2416	3415	Common Substrings	2252	6788
+2417	3416	Crossing	707	1519
+2418	3417	Network	1071	3758
+2419	3418	Quadratic Functions	163	730
+2420	3419	Difference Is Beautiful	613	1980
+2421	3420	Quad Tiling	1339	3110
+2422	3421	X-factor Chains	1642	5178
+2423	3422	Kaka's Matrix Travels	2973	7389
+2424	3423	Automaton optimization	337	616
+2425	3424	Better security	325	1737
+2426	3425	Customer support	1302	2824
+2427	3426	Doors and... more doors	181	453
+2428	3427	Ecology tax	2291	4382
+2429	3428	Formatting function	316	2285
+2430	3429	Geometry with a ruler	353	1618
+2431	3430	Pizza schedule	145	411
+2432	3431	Texture Tile	353	1481
+2433	3432	Count Squares	1214	2760
+2434	3433	Road Accident	19	72
+2435	3434	Terrarium	237	856
+2436	3435	Sudoku Checker	759	1714
+2437	3436	ACM Computer Factory	1729	5046
+2438	3437	Tree Grafting	727	1695
+2439	3438	Look and Say	5355	8878
+2440	3439	Server Relocation	843	2307
+2441	3440	Coin Toss	802	2974
+2442	3441	Vacation Rentals	229	883
+2443	3442	Baseball	110	298
+2444	3443	Team Work	342	1121
+2445	3444	Wavelet Compression	1448	2224
+2446	3445	Elementary Additions	1355	2465
+2447	3446	Catch the Bus!	55	144
+2448	3447	Calendar of Events	137	594
+2449	3448	Roman Expressions	244	521
+2450	3449	Geometric Shapes	578	1378
+2451	3450	Corporate Identity	1709	4512
+2452	3451	Money Money Money, Must Be Funny	164	383
+2453	3452	Railway Transportation	376	807
+2454	3453	Soccer Tournament	160	789
+2455	3454	Hypertheseus	166	289
+2456	3455	Cheesy Chess	148	391
+2457	3456	Frobenius	483	952
+2458	3457	Mineshaft	10	64
+2459	3458	Colour Sequence	671	1074
+2460	3459	Projects	354	795
+2461	3460	Booksort	880	1950
+2462	3461	Oulipo	8332	20876
+2463	3462	Lucky Light	397	1016
+2464	3463	Sightseeing	2406	6758
+2465	3464	Approximations	19	330
+2466	3465	Battle	436	1782
+2467	3466	Distance to the Prey	10	109
+2468	3467	Cross Counting	367	1290
+2469	3468	A Simple Problem with Integers	16624	55263
+2470	3469	Dual Core CPU	7773	18011
+2471	3470	Walls	161	1036
+2472	3471	Integral Roots	287	2145
+2473	3472	Holey Square Tiling	257	842
+2474	3473	Stochastic Finite State Automaton	25	92
+2475	3474	Ellipsoid	24	72
+2476	3475	Paper-, er, Transcript-Folding Game	747	2119
+2477	3476	A Game with Colored Balls	487	2993
+2478	3477	System of Linear Equations	72	534
+2479	3478	Undergraduate Instruction Evaluation	47	106
+2480	3479	RoBa Has a Second Art Gallery!	80	521
+2481	3480	John	1194	2546
+2482	3481	Double Queue	4470	9815
+2483	3482	‘JBC’	251	1137
+2484	3483	Loan Scheduling	437	812
+2485	3484	Showstopper	306	1069
+2486	3485	Highway	392	845
+2487	3486	Computers	778	1817
+2488	3487	The Stable Marriage Problem	985	2262
+2489	3488	Arne Saknussemm	706	1301
+2490	3489	Knapsack I	309	1050
+2491	3490	Jumping Frogs	40	171
+2492	3491	Rotated Sky Charts	23	418
+2493	3492	Knapsack II	376	1515
+2494	3493	Chessboard Puzzle	262	517
+2495	3494	Largest Submatrix of All 1’s	1777	4750
+2496	3495	Bitwise XOR of Arithmetic Progression	136	624
+2497	3496	Word Hyphenation	9	88
+2498	3497	Assemble	950	2933
+2499	3498	March of the Penguins	1835	4008
+2500	3499	Containers	414	15202501	3500	Youth Hostel Dorm	106	388
+2502	3501	Escape from Enemy Territory	639	2307
+2503	3502	Flight Safety	151	723
+2504	3503	Summits	383	1048
+2505	3504	Obfuscation	537	2546
+2506	3505	Tower Parking	1003	1592
+2507	3506	Walk	141	436
+2508	3507	Judging Olympia	3644	7631
+2509	3508	Hide That Number	1539	5057
+2510	3509	Rotating Rings	695	1810
+2511	3510	A Tale from the Dark Side of the Moon	783	2788
+2512	3511	Fermat's Christmas Theorem	1694	8030
+2513	3512	Incidental Points	1052	4532
+2514	3513	Let's Go to the Movies	504	2190
+2515	3514	The Writers' Club	152	659
+2516	3515	Moving Sticks	67	196
+2517	3516	Johnny Hates Math	405	3326
+2518	3517	And Then There Was One	2403	4540
+2519	3518	Prime Gap	4708	8020
+2520	3519	Minimal Backgammon	702	1198
+2521	3520	Lowest Pyramid	82	315
+2522	3521	Geometric Map	138	327
+2523	3522	Slim Span	3229	6115
+2524	3523	The Morning after Halloween	362	1754
+2525	3524	Bug Hunt	347	686
+2526	3525	Most Distant Point from the Sea	1764	3795
+2527	3526	The Teacher’s Side of Math	146	549
+2528	3527	Generalized Connect Four	119	608
+2529	3528	Ultimate Weapon	951	1997
+2530	3529	Matrix Analysis	34	119
+2531	3530	A Modular Arithmetic Challenge	231	1787
+2532	3531	Alternating Sum of Digits	36	188
+2533	3532	Resistance	313	986
+2534	3533	Light Switching Game	301	512
+2535	3534	Escape of Life and Death	316	2537
+2536	3535	A+B	349	773
+2537	3536	Beer Refrigerator	1910	4891
+2538	3537	Crosses and Crosses	907	2437
+2539	3538	Domestic Networks	191	670
+2540	3539	Elevator	280	1045
+2541	3540	Formula	20	74
+2542	3541	Given a string…	367	1703
+2543	3542	History of Football	246	678
+2544	3543	iChess	1103	2463
+2545	3544	Journey with Pigs	768	2510
+2546	3545	K’ak’-u-pakal and Mayan Script	27	141
+2547	3546	Sea battle	429	1197
+2548	3547	Cube evolvent	97	355
+2549	3548	Restoring the digits	162	534
+2550	3549	GSM phone	48	321
+2551	3550	AT – sequence	245	641
+2552	3551	Putin-chess	24	114
+2553	3552	Snatch!	64	207
+2554	3553	Task schedule	174	272
+2555	3554	Almost the shortest route	325	1240
+2556	3555	Cocktail	83	396
+2557	3556	Increasing subsequences	57	173
+2558	3557	Map Generator	297	1116
+2559	3558	Map Generator returns (MG-II)	129	261
+2560	3559	Trigonometric optimization	47	491
+2561	3560	Supersquare	37	185
+2562	3561	Pseudographical recognizer	822	1982
+2563	3562	“Roman” corridor	174	479
+2564	3563	Parabolic teleports	12	186
+2565	3564	Magic pyramid	20	121
+2566	3565	Ants	1255	4114
+2567	3566	Building for UN	590	1353
+2568	3567	Cactus Reloaded	265	867
+2569	3568	Diver	66	122
+2570	3569	Equation	102	484
+2571	3570	Fund Management	66	214
+2572	3571	Game	87	276
+2573	3572	Hanoi Towers	186	367
+2574	3573	I18n	210	721
+2575	3574	Japanese Writing	94	158
+2576	3575	Kingdom Partitioning	30	195
+2577	3576	Language Recognition	395	1470
+2578	3577	Global Positioning System	105	1229
+2579	3578	Card Game	81	588
+2580	3579	Median	1021	3569
+2581	3580	SuperMemo	2771	8477
+2582	3581	Sequence	980	4756
+2583	3582	Last Hit	8	338
+2584	3583	Text Message Formatting	137	954
+2585	3584	Small Polynomial Factorization	62	257
+2586	3585	Accumulation Degree	481	1952
+2587	3586	The missionaries and cannibals	76	274
+2588	3587	The Biggest Cake	576	3272
+2589	3588	The Downloading Task	349	1363
+2590	3589	Number-guessing Game	4764	6578
+2591	3590	The shuffle Problem	502	1587
+2592	3591	Ants and Aphides	28	267
+2593	3592	Instantaneous Transference	1207	5494
+2594	3593	Sea Base Exploration	432	1568
+2595	3594	Escort of Dr. Who How	488	2032
+2596	3595	Full Steiner Topologies	227	541
+2597	3596	Illuminated Planet	66	253
+2598	3597	Polygon Division	501	954
+2599	3598	PopKart	202	832
+2600	3599	Pumping Lemma	74	1902601	3600	Subimage Recognition	926	2471
+2602	3601	Tower of Hanoi	584	1749
+2603	3602	Typographical Ligatures	449	1002
+2604	3603	Zen Puzzle Garden	54	196
+2605	3604	Professor Ben	2204	8646
+2606	3605	Sheryl's Circuit I	490	1188
+2607	3606	Sheryl's Circuit II	217	507
+2608	3607	Distribution of Toys	193	1193
+2609	3608	Bridge Across Islands	2345	8037
+2610	3609	Reset Sequence	332	859
+2611	3610	Maclaurin Series of Reciprocals	63	194
+2612	3611	Minimum Weighted Perfect Fractional <i>b</i>-Matching	46	109
+2613	3612	Telephone Wire	945	2608
+2614	3613	Cow Relays	2004	5033
+2615	3614	Sunscreen	1126	3197
+2616	3615	Cow Hurdles	2486	5597
+2617	3616	Milking Time	1783	4298
+2618	3617	Best Cow Line	2598	8476
+2619	3618	Exploration	1765	3638
+2620	3619	Speed Reading	3814	8226
+2621	3620	Avoid The Lakes	3335	6156
+2622	3621	Sightseeing Cows	2469	7395
+2623	3622	Gourmet Grazers	679	1891
+2624	3623	Best Cow Line, Gold	1564	4211
+2625	3624	Charm Bracelet	9217	20318
+2626	3625	Building Roads	2538	8807
+2627	3626	Mud Puddles	1684	2908
+2628	3627	Bookshelf	3558	7076
+2629	3628	Bookshelf 2	3288	7141
+2630	3629	Card Stacking	1315	3223
+2631	3630	Phone List	6625	21185
+2632	3631	Cuckoo Hashing	404	1182
+2633	3632	Optimal Parking	4371	7359
+2634	3633	Copying DNA	298	818
+2635	3634	Circle of Debt	55	158
+2636	3635	Full Tank?	1976	6075
+2637	3636	Nested Dolls	2067	7639
+2638	3637	Shopaholic	2802	4856
+2639	3638	Moogle	517	1125
+2640	3639	Exchange Rates	867	2455
+2641	3640	Conformity	842	2681
+2642	3641	Pseudoprime numbers	2439	6087
+2643	3642	Carpool	144	651
+2644	3643	Friend or Foe?	272	921
+2645	3644	Gangs	136	386
+2646	3645	Smeech	670	2509
+2647	3646	The Dragon of Loowater	1448	2808
+2648	3647	Tournament	143	614
+2649	3648	Wedding	2375	7850
+2650	3649	Typesetting	241	576
+2651	3650	The Seven Percent Solution	4870	7259
+2652	3651	Slink	23	69
+2653	3652	Persistent Bits	1450	2519
+2654	3653	Here We Go(relians) Again	690	1625
+2655	3654	Electronic Document Security	654	1103
+2656	3655	Guard	96	231
+2657	3656	Rock Skipping	689	1706
+2658	3657	Haybale Guessing	515	1869
+2659	3658	Artificial Lake	581	1764
+2660	3659	Cell Phone Network	1944	5452
+2661	3660	Cow Contest	3590	6610
+2662	3661	Running	1851	5029
+2663	3662	Telephone Lines	1701	4617
+2664	3663	Costume Party	4400	10912
+2665	3664	Election Time	3781	6957
+2666	3665	iCow	1937	5220
+2667	3666	Making the Grade	1854	3947
+2668	3667	Hotel	4668	10808
+2669	3668	Game of Lines	2270	6118
+2670	3669	Meteor Shower	2221	7866
+2671	3670	Eating Together	2533	5192
+2672	3671	Dining Cows	3036	7112
+2673	3672	Long Distance Racing	3783	7093
+2674	3673	Cow Multiplication	7885	11387
+2675	3674	Super Assassin	538	2394
+2676	3675	Telescope	763	2697
+2677	3676	Tomorrow Genius 2008	16	61
+2678	3677	Chemical Weighing	87	550
+2679	3678	Katu Puzzle	2699	7341
+2680	3679	The Delivery of Control	64	198
+2681	3680	Intervals	2519	6199
+2682	3681	Finding the Rectangle	965	3282
+2683	3682	King Arthur's Birthday Celebration	792	2530
+2684	3683	Priest John's Busiest Day	2639	7732
+2685	3684	Physics Experiment	275	801
+2686	3685	Matrix	1113	4478
+2687	3686	The Windy's	1617	3747
+2688	3687	Labeling Balls	2683	9734
+2689	3688	Cheat in the Game	277	899
+2690	3689	Equations	46	806
+2691	3690	Constellations	940	4861
+2692	3691	DNA repair	2492	5320
+2693	3692	Kindergarten	2346	4828
+2694	3693	Maximum repetition substring	1927	6377
+2695	3694	Network	2278	6471
+2696	3695	Rectangles	984	3437
+2697	3696	The Luckiest number	1076	4108
+2698	3697	USTC campus network	1400	4484
+2699	3699	miniSQL	701	23442700	3700	Missile Defence System	1000	4225
+2701	3701	Rubik's Cube: 0-1 Version	37	214
+2702	3702	Chessman	615	1457
+2703	3703	Intuition of Escape	125	645
+2704	3704	Mover	65	444
+2705	3705	Reverse	1021	3206
+2706	3706	System Test	58	192
+2707	3707	High-Dimensional Vector Correspondence	17	296
+2708	3708	Recurrent Function	260	984
+2709	3709	K-Anonymous Sequence	1347	4338
+2710	3710	Christmas Game	537	1724
+2711	3711	Mayan Pyramid	309	1873
+2712	3712	Edges and More Edges	200	854
+2713	3713	Transferring Sylla	334	1381
+2714	3714	Raid	2434	8146
+2715	3715	Blue and Red	860	3193
+2716	3716	Panda's Birthday Present	988	1489
+2717	3717	Decrypt the Dragon Scroll	130	450
+2718	3718	Facer's Chocolate Dream	144	388
+2719	3719	Art of Balance	276	860
+2720	3720	Occurrence of Digits	1504	3653
+2721	3721	Darkterror's Combos	99	596
+2722	3722	We're Going In	16	401
+2723	3723	Conscription	2461	7216
+2724	3724	Find the parameter	675	3260
+2725	3725	I know the k-th integer	619	2896
+2726	3726	Windy's ABC	283	627
+2727	3727	Newton’s Method	161	1066
+2728	3728	The merchant	938	2798
+2729	3729	Facer’s string	496	1637
+2730	3730	Ebbinghaus method	78	370
+2731	3731	Escape	504	1606
+2732	3732	Paint Me Less	153	822
+2733	3733	Shadow Area	53	341
+2734	3734	Blocks	1720	3883
+2735	3735	Training little cats	2235	9317
+2736	3736	Snipe the Sniper	451	1246
+2737	3737	UmBasketella	2341	6053
+2738	3738	Card Game	114	619
+2739	3739	Special Squares	412	1458
+2740	3740	Easy Finding	4079	15403
+2741	3741	Number System Converter	258	1224
+2742	3742	Equivalent Polynomial	721	2575
+2743	3743	LL’s cake	136	526
+2744	3744	Scout YYF I	1143	4376
+2745	3745	Keep Contact	10	199
+2746	3746	Teacher YYF	210	548
+2747	3747	Scout YYF II	372	1509
+2748	3748	位操作	3291	8258
+2749	3749	破译密码	4836	7669
+2750	3750	小孩报数问题	4378	9338
+2751	3751	时间日期格式转换	3261	6949
+2752	3752	字母旋转游戏	2809	7424
+2753	3753	根据关键字进行字符串拷贝	1055	4737
+2754	3754	模拟Modbus协议	311	698
+2755	3755	The Training of Chain Lightning	67	331
+2756	3756	Chess Game	347	1044
+2757	3757	Simple Distributed storage system	336	1948
+2758	3758	The story of three kingdoms XI	45	325
+2759	3759	Simple Distributed computing system	84	234
+2760	3760	魔兽世界(修订版)	416	1748
+2761	3761	Bubble Sort	614	1885
+2762	3762	The Bonus Salary!	597	2290
+2763	3763	Tour in Wonder Land	348	1158
+2764	3764	The xor-longest Path	778	3548
+2765	3765	Xiang Hex	462	916
+2766	3766	Hexagon Coin Toss	74	277
+2767	3767	I Wanna Go Home	1295	3025
+2768	3768	Repeater	1039	3921
+2769	3769	Baseball on the Mercury	46	132
+2770	3770	Baseball on the Mars	24	162
+2771	3771	World Islands	173	694
+2772	3772	Baseball of Planet Pandora	53	121
+2773	3773	String-Matching Automata	103	163
+2774	3774	Elune’s Arrow	84	226
+2775	3775	Chase	69	216
+2776	3776	Passing the Message	187	329
+2777	3777	Snail Alice	51	144
+2778	3778	An Odd Award Rule	170	463
+2779	3779	Single CPU, multi-tasking	116	385
+2780	3780	Tour Route	6	204
+2781	3781	Nth Largest Value	988	1535
+2782	3782	Equal Sum Partitions	480	665
+2783	3783	Balls	350	485
+2784	3784	Running Median	535	1107
+2785	3785	The Next Permutation	602	826
+2786	3786	Adjacent Bit Counts	363	447
+2787	3787	Convex Hull of Lattice Points	219	341
+2788	3788	Interior Points of Lattice Polygons	115	164
+2789	3789	Binary Clock	357	517
+2790	3790	Recursively Palindromic Partitions	362	495
+2791	3791	Text Messaging Improvement?	64	193
+2792	3792	Area of Polycubes	103	247
+2793	3793	Joe’s Triangular Gardens	28	41
+2794	3794	Extended Normal Order Sort	88	399
+2795	3795	The Two Note Rag	117	165
+2796	3796	Spatial Concepts Test	20	30
+2797	3797	Tiling a Grid With Dominoes	262	387
+2798	3798	Cave Crisis	26	104
+2799	3799	Optimal Strategy for the ICPC	21	1402800	3800	Repair Depots	1384	1859
+2801	3801	Crazy Circuits	463	564
+2802	3802	Cubist Artwork	187	286
+2803	3803	Repeated Substitution with Sed	237	547
+2804	3804	Swimming Jam	55	112
+2805	3805	Separate Points	136	354
+2806	3806	Origami Through-Hole	8	22
+2807	3807	Chemist’s Math	20	61
+2808	3808	Malfatti Circles	115	232
+2809	3809	Twenty Questions	61	156
+2810	3810	Hobby on Rails	5	9
+2811	3811	Infected Land	59	199
+2812	3812	Block Game	52	475
+2813	3813	Euclid	152	556
+2814	3814	Museum Guards	228	1103
+2815	3815	The Ninja Way	167	702
+2816	3816	Pool Table	53	345
+2817	3817	Robot Challenge	229	636
+2818	3818	Mosaic	103	281
+2819	3819	Coverage	83	376
+2820	3820	XML	66	294
+2821	3821	Clickomania	122	542
+2822	3822	Cover Up	18	61
+2823	3823	Decompressing in a GIF	46	143
+2824	3824	Flipper	35	73
+2825	3825	Here's a Product Which Will Make You Tensor	43	232
+2826	3826	Trip the Lights Fantastic	25	131
+2827	3827	Facer is learning to swim	74	289
+2828	3828	Zombies VS Plants	21	112
+2829	3829	Seat taking up is tough	95	259
+2830	3830	Ancient vending machine	39	135
+2831	3831	Open-air shopping malls	150	418
+2832	3832	Posters	173	644
+2833	3833	Hamlet's gambling	17	93
+2834	3834	Graph Game	33	183
+2835	3835	Columbus's bargain	138	499
+2836	3836	P2P File Sharing System	61	158
+2837	3842	An Industrial Spy	483	1225
+2838	3843	Common Subexpression Elimination	23	330
+2839	3844	Divisible Subsequences	666	1895
+2840	3845	Fractal	104	243
+2841	3846	Mountain Road	61	160
+2842	3847	Moving to Nuremberg	145	506
+2843	3848	Room Assignments	45	127
+2844	3849	Settlers of Catan	120	231
+2845	3850	Simple Polygon	151	465
+2846	3851	Wormholes	14	105
+2847	3852	String LD	441	799
+2848	3853	Painting	153	565
+2849	3854	Another Brick in the Wall	102	177
+2850	3855	Blast the Enemy!	127	221
+2851	3856	deltree	38	76
+2852	3857	Solar Eclipse	31	113
+2853	3858	Hurry Plotter	46	80
+2854	3859	ACM Coalition	35	64
+2855	3860	Fruit Weights	69	264
+2856	3861	Royal Gems	23	157
+2857	3862	Asteroids	141	454
+2858	3863	Business Center	439	1088
+2859	3865	Database	146	729
+2860	3866	Exclusive Access 2	41	95
+2861	3867	Funny Language	61	178
+2862	3868	Garbling Game	72	288
+2863	3869	Headshot	178	332
+2864	3870	Inspection	122	547
+2865	3871	Java Certification	27	149
+2866	3872	K-equivalence	32	117
+2867	3873	Trick or Treat	153	565
+2868	3874	Working at the Restaurant	78	188
+2869	3875	Lights	25	84
+2870	3876	Darts	30	48
+2871	3877	Genetics	16	27
+2872	3878	Haunted Graveyard	76	321
+2873	3879	Slalom	41	188
+2874	3880	Routing	21	32
+2875	3881	Happy Telephones	118	187
+2876	3882	Stammering Aliens	178	593
+2877	3883	Penguin Bashing	29	98
+2878	3884	Gearbox	17	33
+2879	3885	Escape from the Minefield	9	31
+2880	3886	Baby's Blocks	135	267
+2881	3887	The Pharaoh's Curse	36	210
+2882	3888	Dimensional Warp Drive	50	122
+2883	3889	Fractal Streets	72	192
+2884	3890	No Smoking, Please	39	184
+2885	3892	RSA Factorization	128	481
+2886	3893	Hard-working Student	151	424
+2887	3894	System Engineer	219	515
+2888	3895	Cycles of Lanes	377	998
+2889	3896	Multiprocessor Scheduling	51	114
+2890	3897	Maze Stretching	214	780
+2891	3898	Software Industry Revolution	90	276
+2892	3899	The Lucky Numbers	70	2442893	3900	The Robbery	168	1635
+2894	3901	The Computer Game	33	65
+2895	3902	The Bad Number	82	227
+2896	3903	Stock Exchange	1338	3710
+2897	3904	Sky Code	397	1302
+2898	3905	Perfect Election	298	585
+2899	3906	Lucky cities	69	379
+2900	3907	Build Your Home	353	590
+2901	3908	Quick answer	248	762
+2902	3909	Lucky numbers	202	602
+2903	3910	GCD Determinant	176	331
+2904	3911	Internet Service Providers	244	505
+2905	3912	Up and Down	82	332
+2906	3913	Gnome Sequencing	1303	1910
+2907	3914	DuLL	182	255
+2908	3915	Black Vienna	56	120
+2909	3916	Duplicate Removal	990	1425
+2910	3917	Rock, Paper, Scissors	840	1377
+2911	3918	A to Z Numerals	12	26
+2912	3919	Cell Towers	57	97
+2913	3920	RIPOFF	139	211
+2914	3921	Destroying the bus stations	521	1600
+2915	3922	A simple stone game	161	310
+2916	3923	Ugly Windows	341	1158
+2917	3924	Tornado	68	219
+2918	3925	Minimal Ratio Tree	434	1201
+2919	3926	Parade	116	530
+2920	3927	Priest John's Busiest Day	174	554
+2921	3928	Ping pong	684	1771
+2922	3929	Timer	53	177
+2923	3930	Elevator	34	140
+2924	3931	Classmates	39	71
+2925	3932	Matches	19	183
+2926	3933	New Liquid	22	33
+2927	3934	Queue	154	360
+2928	3935	Striking Ball	15	98
+2929	3937	Parlay Wagering	20	116
+2930	3939	Extended Manhattan Distance	8	54
+2931	3940	Grey Area	130	257
+2932	3941	Expected Allowance	104	209
+2933	3942	Stopped Watches	44	67
+2934	3943	Digits on the Floor	27	52
+2935	3944	Spherical Mirrors	45	58
+2936	3945	Traveling Cube	41	63
+2937	3946	Search of Concatenated Strings	54	186
+2938	3947	Top Spinning	11	21
+2939	3948	Common Polynomial	17	25
+2940	3949	Zigzag	13	40
+2941	3959	Alignment of Code	216	594
+2942	3960	Binary Operation	44	152
+2943	3961	Cactus Revolution	15	158
+2944	3962	Dome of Circus	130	589
+2945	3963	Evacuation Plan	145	606
+2946	3964	Factorial Simplification	72	195
+2947	3966	Hands of Poker	43	141
+2948	3967	Ideal Path	162	1169
+2949	3968	Jungle Outpost	162	683
+2950	3969	K-Graph Oddity	62	436
+2951	3970	Party	386	1018
+2952	3971	Scales	92	180
+2953	3972	BF	48	219
+2954	3973	Highlights	48	94
+2955	3974	Palindrome	1242	3447
+2956	3975	Shortcut	57	166
+2957	3976	Kings	26	69
+2958	3977	Subset	230	1384
+2959	3978	Primes	1220	3142
+2960	3979	分数加减法	3989	11984
+2961	3980	取模运算	5809	9503
+2962	3981	字符串替换	4293	9007
+2963	3982	序列	3036	6780
+2964	3983	快算24	2684	4399
+2965	3984	迷宫问题	4076	6971
+2966	3985	Knight's Problem	140	771
+2967	3986	Math teacher's homework	135	241
+2968	3987	Computer Virus on Planet Pandora	135	647
+2969	3988	Selecting courses	124	381
+2970	3989	A hard Aoshu Problem	196	389
+2971	3990	Fermat Point in Quadrangle	170	696
+2972	3991	Seinfeld	511	1125
+2973	3992	Tiles of Tetris, NOT!	221	769
+2974	3993	Not So Flat After All	194	556
+2975	3994	Probability One	987	1431
+2976	3995	Hop — Don’t Walk!	139	742
+2977	3996	Air Strike	156	480
+2978	3997	Stock Chase	147	594
+2979	3998	Land Division	91	252
+2980	3999	Kind of a Blur	130	6162981	4000	National Treasures	134	454
+2982	4001	Xiangqi	245	899
+2983	4002	Alice's mooncake shop	158	519
+2984	4003	Bob’s Race	131	403
+2985	4004	My World Cup	12	30
+2986	4005	Moles	54	395
+2987	4006	Genghis Khan the Conqueror	73	185
+2988	4007	Flood-it!	91	239
+2989	4008	Running relay	26	161
+2990	4009	Porcelain Exhibitions	18	71
+2991	4010	Shadow	19	45
+2992	4011	Automated Telephone Exchange	583	1143
+2993	4012	Black Square	130	663
+2994	4013	Cube Coloring	3	142
+2995	4014	Dice	174	401
+2996	4015	Electrification	1	22
+2997	4016	Flat	154	281
+2998	4017	Galaxy Interconnection	2	56
+2999	4018	High security	68	231
+3000	4019	Immediate Delivery	42	118
+3001	4020	John's Inversions	130	331
+3002	4021	Kids Like Cakes	21	295
+3003	4022	ASCII Area	231	526
+3004	4023	Binary Encoding	131	285
+3005	4024	Caption	4	61
+3006	4025	Dictionary Size	70	426
+3007	4026	Eve	84	299
+3008	4027	Flights	0	34
+3009	4028	GCD Guessing Game	94	229
+3010	4029	Huzita Axiom 6	0	18
+3011	4031	Journey	7	135
+3012	4032	Kingdom Roadmap	0	173
+3013	4033	Lanes	1	23
+3014	4034	Alphabet Soup	13	43
+3015	4035	Coin Collecting	3	53
+3016	4036	Cybercrime Donut Investigation	0	104
+3017	4037	Distributing Ballot Boxes	30	205
+3018	4038	Game, Set and Match	14	28
+3019	4039	Guess the Numbers	47	101
+3020	4040	Non-negative Partial Sums	31	216
+3021	4041	Peer Review	41	84
+3022	4042	Regular Convex Polygon	45	114
+3023	4043	Remoteland	41	177
+3024	4044	Score Sequence	412	1102
+3025	4045	Power Station	403	993
+3026	4046	Sightseeing	472	2232
+3027	4047	Garden	433	1227
+3028	4048	Chinese Repeating Crossbow	279	968
+3029	4049	Chess	153	617
+3030	4050	Necklace	50	195
+3031	4051	Aeroplane Chess	44	123
+3032	4052	Hrinity	335	1233
+3033	4053	World of Goo	5	87
+3034	4054	KINA Is Not Abbreviation	1	49
